@@ -1,5 +1,8 @@
 package com.example.kotlin.generic
 
+import android.app.Activity
+import android.app.Person
+
 /**
  * Description: <Test><br>
  * Author:      mxdl<br>
@@ -15,14 +18,6 @@ inline fun <reified T> printType(item: T) {
 class Container<T>(val item: T)
 
 fun main() {
-    //printType("Hello")  // 输出：Type of Hello is String
-    //printType(42)       // 输出：Type of 42 is Int
-
-    val container = Container<String>("Hello")
-    val item = container.item // 在编译后的字节码中，item的类型为Any
-
-    if (item is String) {
-        val length = item.length // 编译器插入了强制类型转换
-        println("Length: $length")
-    }
+    var dog: AnimalShelter1<Dog> = AnimalShelter1<Dog>()
+    var dog1: AnimalShelter1<Cat> = AnimalShelter1<Cat>()
 }
