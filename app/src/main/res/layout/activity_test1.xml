@@ -1,0 +1,69 @@
+<!-- activity_main.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       tools:context=".MainActivity"
+       android:orientation="horizontal"
+       >
+
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          android:text="你"
+          android:textColor="#ff0000"
+          />
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          android:text="好"
+          android:textColor="#ff0000"
+          />
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          android:text="啊"
+          android:textColor="#ff0000"
+          />
+   </LinearLayout>
+
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       tools:context=".MainActivity"
+       android:orientation="horizontal"
+       >
+
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:id="@+id/animatedTextView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          android:text="你"
+          android:textColor="#000000"
+          />
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:id="@+id/animatedTextView1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          />
+      <com.example.kotlin.view.IncreasingWidthTextView
+          android:id="@+id/animatedTextView2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="26sp"
+          />
+   </LinearLayout>
+
+</RelativeLayout>

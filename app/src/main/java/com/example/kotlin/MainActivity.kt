@@ -1,24 +1,23 @@
 package com.example.kotlin
 
+import android.content.Intent
 import android.graphics.Color
-import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.text.SpannableString
 import android.text.Spanned
 import android.text.TextPaint
 import android.text.method.LinkMovementMethod
 import android.text.style.ClickableSpan
-import android.text.style.ImageSpan
 import android.text.style.SuperscriptSpan
 import android.text.style.UnderlineSpan
 import android.view.Gravity
 import android.view.LayoutInflater
 import android.view.View
 import android.view.WindowManager
+import android.widget.Button
 import android.widget.PopupWindow
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.kotlin.view.WordClickableSpan
 
 
 class MainActivity : AppCompatActivity() {
@@ -28,12 +27,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // 隐藏标题栏
-        supportActionBar?.hide()
-
-        // 隐藏系统状态栏和导航栏
-        window.decorView.systemUiVisibility = (View.SYSTEM_UI_FLAG_FULLSCREEN
-                or View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
-                or View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY)
+        //supportActionBar?.hide()
 
         setContentView(R.layout.activity_main)
 
@@ -48,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
         // 创建SpannableString并设置角标样式
         val spannableString = SpannableString(poem)
-        spannableString.setSpan(SuperscriptSpan(), superscriptStart+1, superscriptStart + 2, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+        spannableString.setSpan(SuperscriptSpan(), superscriptStart + 1, superscriptStart + 2, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
 
         // 在"疑"字后插入角标①并设置ClickableSpan
         val clickableSpan = object : ClickableSpan() {
@@ -61,14 +55,22 @@ class MainActivity : AppCompatActivity() {
                 ds.color = Color.BLUE
             }
         }
-        spannableString.setSpan(clickableSpan, superscriptStart , superscriptStart + 2, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+        spannableString.setSpan(clickableSpan, superscriptStart, superscriptStart + 2, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
 
         // 设置"疑"字的样式，可以增加下划线等效果
-        spannableString.setSpan(UnderlineSpan(), superscriptStart , superscriptStart + 1, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+        spannableString.setSpan(UnderlineSpan(), superscriptStart, superscriptStart + 1, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
 
         // 将SpannableString设置给TextView显示
         poemTextView.text = spannableString
         poemTextView.movementMethod = LinkMovementMethod.getInstance()
+
+
+        findViewById<Button>(R.id.btn_test).setOnClickListener {
+            startActivity(Intent(this, TestActivity::class.java))
+        }
+        findViewById<Button>(R.id.btn_test1).setOnClickListener {
+            startActivity(Intent(this, Test1Activity::class.java))
+        }
     }
 
     private fun showPopup(anchorView: View, explanation: String) {
@@ -76,12 +78,7 @@ class MainActivity : AppCompatActivity() {
         val popupTextView = popupView.findViewById<TextView>(R.id.popupTextView)
         popupTextView.text = explanation
 
-        popupWindow = PopupWindow(
-            popupView,
-            WindowManager.LayoutParams.WRAP_CONTENT,
-            WindowManager.LayoutParams.WRAP_CONTENT,
-            true
-        )
+        popupWindow = PopupWindow(popupView, WindowManager.LayoutParams.WRAP_CONTENT, WindowManager.LayoutParams.WRAP_CONTENT, true)
 
         // 获取"疑"字在TextView中的位置
         val location = IntArray(2)
