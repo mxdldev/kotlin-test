@@ -14,18 +14,20 @@
         android:theme="@style/Theme.Kotlintest"
         tools:targetApi="31">
         <activity
+            android:name=".PoetryActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:exported="true"
-            >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Test1Activity"/>
-        <activity android:name=".GradientColorActivity"/>
-        <activity android:name=".TestActivity"/>
+        <activity android:name=".Test1Activity" />
+        <activity android:name=".GradientColorActivity" />
+        <activity android:name=".TestActivity" />
     </application>
 
 </manifest>

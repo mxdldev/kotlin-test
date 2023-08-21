@@ -71,6 +71,10 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btn_test1).setOnClickListener {
             startActivity(Intent(this, Test1Activity::class.java))
         }
+        findViewById<Button>(R.id.btn_poetry).setOnClickListener {
+            startActivity(Intent(this, PoetryActivity::class.java))
+        }
+
     }
 
     private fun showPopup(anchorView: View, explanation: String) {
