@@ -8,8 +8,28 @@ pluginManagement {
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
-        google()
+        mavenLocal()
         mavenCentral()
+        google()
+        maven { url "https://jitpack.io" }
+        maven {
+            allowInsecureProtocol true
+            url 'http://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        maven {
+            allowInsecureProtocol true
+            url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'
+        }
+        maven {
+            allowInsecureProtocol true
+            url 'http://maven.aliyun.com/nexus/content/repositories/releases/'
+        }
+        maven {
+            allowInsecureProtocol true
+            url "http://nexus2.tingyun.com/nexus/content/repositories/snapshots/"
+        }
+        maven {url 'https://developer.huawei.com/repo/'}
+
     }
 }
 rootProject.name = "kotlin-test"

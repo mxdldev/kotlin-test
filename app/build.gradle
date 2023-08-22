@@ -52,4 +52,12 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation 'com.google.code.gson:gson:2.8.8'
+
+    //implementation 'com.github.zhangliangming:Player:v1.1'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-java:v8.1.3-jitpack'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-armv64:v8.1.3-jitpack'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-armv7a:v8.1.3-jitpack'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-exo_player2:v8.1.3-jitpack'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-x86:v8.1.3-jitpack'
+    implementation 'com.github.carguo.gsyvideoplayer:gsyVideoPlayer-x86_64:v8.1.3-jitpack'
 }
