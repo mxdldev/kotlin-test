@@ -7,6 +7,6 @@ package com.example.kotlin.entity
  * Version:     V1.0.0<br>
  * Update:     <br>
  */
-enum class PoetryPlayType {
-    TITLE,AUTHOR,MAINBODY
+enum class PoetryPlayType(val type: Int) {
+    TITLE(0), AUTHOR(1), MAINBODY(2)
 }

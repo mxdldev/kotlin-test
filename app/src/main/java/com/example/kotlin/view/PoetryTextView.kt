@@ -7,6 +7,7 @@ import android.util.AttributeSet
 import android.util.Log
 import android.widget.TextView
 import com.example.kotlin.entity.Poetry
+import com.example.kotlin.entity.PoetryLine
 import com.example.kotlin.entity.PoetryPlayType
 import com.example.kotlin.util.PoetryUntil
 
@@ -35,20 +36,26 @@ import com.example.kotlin.util.PoetryUntil
         color = Color.parseColor("#666666")
         typeface = Typeface.createFromAsset(context.getAssets(), "fonts/FZKTJW.TTF")
     }
+    val mAuthorPaintRed = Paint().apply {
+        textSize = PoetryUntil.spToPx(context, 16f)
+        color = Color.RED
+        typeface = Typeface.createFromAsset(context.getAssets(), "fonts/FZKTJW.TTF")
+    }
     val mContentPaint = Paint().apply {
         textSize = PoetryUntil.spToPx(context, 24f)
         color = Color.parseColor("#212121")
         typeface = Typeface.createFromAsset(context.getAssets(), "fonts/FZKTJW.TTF")
     }
-
+    val mContentPaintRed = Paint().apply {
+        textSize = PoetryUntil.spToPx(context, 24f)
+        color = Color.RED
+        typeface = Typeface.createFromAsset(context.getAssets(), "fonts/FZKTJW.TTF")
+    }
     val mPoetryMarginTop = PoetryUntil.dpToPx(context, 40f)
     var mPoetry: Poetry? = null
-    var mTotalTime = 0L
-    var mProcess = 0L
-    var mPlayType = PoetryPlayType.TITLE
+    var mPoetryLine: PoetryLine? = null
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
-        canvas.save()
         mPoetry?.poem?.let {
             var currHeight = mPoetryMarginTop;
             val screenWidth = PoetryUntil.getScreenWidth(context)
@@ -60,8 +67,8 @@ import com.example.kotlin.util.PoetryUntil
                 canvas.drawText(it.name, titleX, titleY, mTitlePaint)
                 currHeight += PoetryUntil.getTextHeight(mTitlePaint)
 
-                if (mPlayType == PoetryPlayType.TITLE && mTotalTime > 0) {
-                    var currTitleWidth = titleWidth * (mProcess / mTotalTime.toFloat())
+                if (mPoetryLine?.type == PoetryPlayType.TITLE.type && mPoetryLine?.process!! > 0 && mPoetryLine?.totalTime!! > 0) {
+                    var currTitleWidth = titleWidth * (mPoetryLine?.process!! / mPoetryLine?.totalTime!!.toFloat())
                     if (currTitleWidth > titleWidth) {
                         currTitleWidth = titleWidth
                     }
@@ -71,27 +78,69 @@ import com.example.kotlin.util.PoetryUntil
                     val right = titleX + currTitleWidth
                     val bottom = titleY + titleHeight
                     Log.v("MYTAG", "left:${left},top:${top},right:${right},bottom:${bottom}")
+                    canvas.save()
                     canvas.clipRect(RectF(left, top, right, bottom))
                     canvas.drawText(it.name, titleX, titleY, mTitlePaintRed)
+                    canvas.restore()
                 }
             }
             it.poet?.let {
+                val authorWidth = PoetryUntil.getTextWidth(mAuthorPaint, it.name)
+                val authorHeight = PoetryUntil.getRealTextHeight(mAuthorPaint)
+
                 val authorX = screenWidth / 2 - PoetryUntil.getTextWidth(mAuthorPaint, it.name) / 2
                 val authorY = currHeight
                 canvas.drawText(it.name, authorX, authorY, mAuthorPaint)
                 currHeight += PoetryUntil.getTextHeight(mAuthorPaint)
+
+                if (mPoetryLine?.type == PoetryPlayType.AUTHOR.type && mPoetryLine?.process!! > 0 && mPoetryLine?.totalTime!! > 0) {
+                    var currAuthorWidth = authorWidth * (mPoetryLine?.process!! / mPoetryLine?.totalTime!!.toFloat())
+                    if (currAuthorWidth > authorWidth) {
+                        currAuthorWidth = authorWidth
+                    }
+                    //Log.v("MYTAG","titleWidth:${titleWidth},currTitleWidth:${currTitleWidth}")
+                    val left = authorX
+                    val top = authorY - authorHeight
+                    val right = authorX + currAuthorWidth
+                    val bottom = authorY + authorHeight
+                    Log.v("MYTAG", "left:${left},top:${top},right:${right},bottom:${bottom}")
+                    canvas.save()
+                    canvas.clipRect(RectF(left, top, right, bottom))
+                    canvas.drawText(it.name, authorX, authorY, mAuthorPaintRed)
+                    canvas.restore()
+                }
             }
             currHeight += PoetryUntil.dpToPx(context, 20f)
             it.content?.let {
-                it.forEach {
-                    val contentX = screenWidth / 2 - PoetryUntil.getTextWidth(mContentPaint, it.label) / 2 + PoetryUntil.dpToPx(context, 15f)
+                it.forEachIndexed { index, lineTime ->
+                    val contentWidth = PoetryUntil.getTextWidth(mContentPaint, lineTime.label)
+                    val contentHeight = PoetryUntil.getRealTextHeight(mContentPaint)
+
+                    val contentX = screenWidth / 2 - PoetryUntil.getTextWidth(mContentPaint, lineTime.label) / 2 + PoetryUntil.dpToPx(context, 15f)
                     val contentY = currHeight
-                    canvas.drawText(it.label, contentX, contentY, mContentPaint)
+                    canvas.drawText(lineTime.label, contentX, contentY, mContentPaint)
+
+                    if (mPoetryLine?.type == PoetryPlayType.MAINBODY.type && index == mPoetryLine!!.position && mPoetryLine?.process!! > 0 && mPoetryLine?.totalTime!! > 0) {
+                        var currAuthorWidth = contentWidth * (mPoetryLine?.process!! / mPoetryLine?.totalTime!!.toFloat())
+                        if (currAuthorWidth > contentWidth) {
+                            currAuthorWidth = contentWidth
+                        }
+                        //Log.v("MYTAG","titleWidth:${titleWidth},currTitleWidth:${currTitleWidth}")
+                        val left = contentX
+                        val top = contentY - contentHeight
+                        val right = contentX + currAuthorWidth
+                        val bottom = contentY + contentHeight
+                        Log.v("MYTAG", "left:${left},top:${top},right:${right},bottom:${bottom}")
+                        canvas.save()
+                        canvas.clipRect(RectF(left, top, right, bottom))
+                        canvas.drawText(lineTime.label, contentX, contentY, mContentPaintRed)
+                        canvas.restore()
+                    }
+
                     currHeight = currHeight + PoetryUntil.getTextHeight(mContentPaint) + PoetryUntil.dpToPx(context, 15f)
                 }
             }
         }
-        canvas.restore()
     }
 
     fun initData(poetry: Poetry?) {
@@ -99,11 +148,11 @@ import com.example.kotlin.util.PoetryUntil
         invalidate()
     }
 
-    fun setCurrProcess(playType: PoetryPlayType, totalTime: Long, process: Long) {
-        Log.v("MYTAG", "totalTime:${totalTime},process:${process},${process / totalTime.toFloat()}")
-        mPlayType = playType
-        mTotalTime = totalTime
-        mProcess = process
+    fun setCurrProcess(playLine: PoetryLine?) {
+        playLine?.let {
+            Log.v("MYTAG", "totalTime:${playLine.totalTime},process:${playLine.process},${playLine.process / playLine.totalTime.toFloat()}")
+        }
+        mPoetryLine = playLine
         invalidate()
     }
 }
