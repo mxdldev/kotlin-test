@@ -62,7 +62,9 @@ object PoetryPlayerManager {
     }
 
     fun startPlay(list: List<PoetryLine>) {
+        mCurrPostion = 0
         mListData = list
+        mMediaPlayer.reset()
         mMediaPlayer.setDataSource(list.get(mCurrPostion).mp3url)
         mMediaPlayer.prepareAsync()
     }
