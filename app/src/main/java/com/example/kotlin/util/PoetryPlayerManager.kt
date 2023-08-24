@@ -8,6 +8,7 @@ import com.example.kotlin.entity.PoetryLine
 import com.example.kotlin.entity.PoetryPlayListener
 import tv.danmaku.ijk.media.player.IMediaPlayer
 import tv.danmaku.ijk.media.player.IjkMediaPlayer
+import java.util.*
 
 /**
  * Description: <PoetryPlayerManager><br>
@@ -21,7 +22,9 @@ object PoetryPlayerManager {
     lateinit var mMyHandler: Handler
     lateinit var mMediaPlayer: IjkMediaPlayer
     var mCurrPostion = 0
+    var mDelayPostion = 0
     var mPoetryPlayListener: PoetryPlayListener? = null
+    var mlistDelay: List<Int>? = null
 
     init {
         mMediaPlayer = IjkMediaPlayer()
@@ -45,8 +48,13 @@ object PoetryPlayerManager {
         })
         mMediaPlayer.setOnPreparedListener(IMediaPlayer.OnPreparedListener {
             Log.v("MYTAG", "play start...")
-            mMyHandler.sendEmptyMessage(0x01)
-            mPoetryPlayListener?.onStart(mCurrPostion)
+            mDelayPostion = 0
+            mlistDelay = mListData!!.get(mCurrPostion).delayTime
+            if(mDelayPostion < mlistDelay!!.size){
+                mMyHandler.sendEmptyMessageDelayed(0x01, mlistDelay?.get(mDelayPostion)?.toLong()!!)
+                mDelayPostion++
+            }
+            mPoetryPlayListener?.onStart(mCurrPostion, mListData!!.get(mCurrPostion))
         })
         mMediaPlayer.setSpeed(1.0f)
         mMyHandler = object : Handler(Looper.getMainLooper()) {
@@ -55,14 +63,19 @@ object PoetryPlayerManager {
                 var poetryLine = mListData?.get(mCurrPostion)
                 poetryLine?.process = mMediaPlayer.currentPosition
                 mPoetryPlayListener?.onProcess(poetryLine!!)
-                mMyHandler.sendEmptyMessageDelayed(0x01, 100)
-
+                Log.v("MYTAG1","mDelayPostion:${mDelayPostion}")
+                if(mDelayPostion < mlistDelay!!.size){
+                    mMyHandler.sendEmptyMessageDelayed(0x01, mlistDelay?.get(mDelayPostion)?.toLong()!!)
+                    mDelayPostion++
+                }
             }
         }
     }
 
-    fun startPlay(list: List<PoetryLine>) {
+    fun startPlay(list: List<PoetryLine>, listDelay: List<Int>) {
+        mlistDelay = listDelay
         mCurrPostion = 0
+        mDelayPostion = 0
         mListData = list
         mMediaPlayer.reset()
         mMediaPlayer.setDataSource(list.get(mCurrPostion).mp3url)

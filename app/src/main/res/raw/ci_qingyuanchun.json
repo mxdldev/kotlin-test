@@ -1,0 +1,2090 @@
+{
+  "id": "0163",
+  "author": {
+    "img": "",
+    "intro": ""
+  },
+  "appreciate": {
+    "content": "本词是毛泽东初到陕北看见大雪时填的一首词。上片描写北国雪景，展现祖国山河的壮丽；下片由祖国山河引出英雄人物，纵论历代英雄，抒发词人的抱负。全词熔写景、抒情与议论为一炉，水乳交融，主题鲜明突出，从而收到强烈的艺术效果。这首词的语言非常凝练、贴切，极富表现力。全词仅114字，就清晰地勾画出一幅北国风光图，极有分寸地评论了上下几千年的历史人物，抒发了词人的抱负。",
+    "title": "整体赏析"
+  },
+  "knowledge": [
+    {
+      "headline": "选择。",
+      "title": "下列几组词语中字形和注音全正确的一组是（     ）",
+      "sort": 1,
+      "order": "1",
+      "correct": "D",
+      "img": "",
+      "answer": "",
+      "isanalysis": false,
+      "analysis": "【解析】A.原驰 B.多娇 C.文采",
+      "type": "answer",
+      "option": [
+        {
+          "choice": "A",
+          "value": "沁（qìn）园春  原弛蜡象  分（fèn）外妖娆"
+        },
+        {
+          "choice": "B",
+          "value": "江山多骄  稍逊风骚（sāo）  惟余莽莽"
+        },
+        {
+          "choice": "C",
+          "value": "一代天骄  略输文彩  还看今朝（zhāo）"
+        },
+        {
+          "choice": "D",
+          "value": "成吉思汗（hán）  数（shǔ）风流人物  竞折腰"
+        }
+      ]
+    },
+    {
+      "headline": "填空。",
+      "title": "毛泽东的《沁园春·雪》中运用比喻和对偶的修辞手法描写北国雪景的句子是：“____，____”。",
+      "sort": 2,
+      "order": "1",
+      "img": "",
+      "answer": [
+        "山舞银蛇",
+        "原驰蜡象"
+      ],
+      "isanalysis": false,
+      "type": "supplytwo"
+    }
+  ],
+  "isPhonetic": false,
+  "mp4src": {
+    "bgurl": "/pub_cloud/110/2013/0163/qinyuanchunxuewz.mp4",
+    "url": "/pub_cloud/110/2013/0163/qinyuanchunxue.mp4"
+  },
+  "isorder": false,
+  "background": "",
+  "poetry": {
+    "content": "中国北方严冬的景象，千里大地坚冰封冻，万里长空大雪纷飞。登高远望，长城内外，从南到北，只剩下白茫茫一片；黄河上下，由东到西，再不见滔滔的洪波。</br>在大雪的覆盖下，那连绵起伏、蜿蜒夭矫的群山，犹如银色的长蛇在飞舞，那高低绵亘、丘陵起伏的高原，宛若白色的群象在奔驰，似乎要同老天比个高低。等到雪霁天晴，红艳艳的太阳照着白皑皑的雪野，阳光与白雪交相辉映，祖国的山河好像一位披红着素的少女，显得格外娇艳美丽。祖国的江山如此壮丽美好，使得历史上许许多多的英雄人物争相倾倒。</br>可惜的是，史称宏图大略的秦始皇、汉武帝，虽有历史武功，但文采（文治）方面还稍嫌不足；显赫一时的唐太宗、宋太祖，在文学（文治）方面也稍稍有些欠缺。至于被称为一代天之骄子的成吉思汗，更是只会挽起弓来射射大雕（只懂得武力征服）。</br>以往的英雄人物随着时光的流逝，全都远去了，真正称得起英雄人物的，还得看今天（的无产阶级）。",
+    "title": "诗意浅析"
+  },
+  "poemDuring": [
+    3,
+    1,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    3,
+    2,
+    2,
+    5,
+    2,
+    3,
+    3,
+    3,
+    4,
+    2,
+    2,
+    2,
+    3,
+    1,
+    1,
+    4,
+    2,
+    3,
+    4
+  ],
+  "poem": {
+    "content": [
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              2
+            ],
+            "option": "〔北国〕指我国北方。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue1.mp3",
+        "mask": [],
+        "line": 1,
+        "label": "北国风光，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "北",
+            "wordStartime": 5040,
+            "wordEndtime": 8060,
+            "contentStartime": 7580,
+            "contentEndtime": 8060,
+            "eStartimeHead": 5040,
+            "eEndtimeHead": 7580,
+            "eStartimeBehind": 8060,
+            "eEndtimeBehind": 8060
+          },
+          {
+            "word": "国",
+            "wordStartime": 8060,
+            "wordEndtime": 9060,
+            "contentStartime": 8280,
+            "contentEndtime": 9060,
+            "eStartimeHead": 8060,
+            "eEndtimeHead": 8280,
+            "eStartimeBehind": 9060,
+            "eEndtimeBehind": 9060
+          },
+          {
+            "word": "风",
+            "wordStartime": 9060,
+            "wordEndtime": 9560,
+            "contentStartime": 9170,
+            "contentEndtime": 9560,
+            "eStartimeHead": 9060,
+            "eEndtimeHead": 9170,
+            "eStartimeBehind": 9560,
+            "eEndtimeBehind": 9560
+          },
+          {
+            "word": "光",
+            "wordStartime": 9560,
+            "wordEndtime": 10120,
+            "contentStartime": 9560,
+            "contentEndtime": 10120,
+            "eStartimeHead": 9560,
+            "eEndtimeHead": 9560,
+            "eStartimeBehind": 10120,
+            "eEndtimeBehind": 10120
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue2.mp3",
+        "mask": [],
+        "line": 2,
+        "label": "千里冰封，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "千",
+            "wordStartime": 10120,
+            "wordEndtime": 12260,
+            "contentStartime": 11440,
+            "contentEndtime": 12260,
+            "eStartimeHead": 10120,
+            "eEndtimeHead": 11440,
+            "eStartimeBehind": 12260,
+            "eEndtimeBehind": 12260
+          },
+          {
+            "word": "里",
+            "wordStartime": 12260,
+            "wordEndtime": 12640,
+            "contentStartime": 12260,
+            "contentEndtime": 12640,
+            "eStartimeHead": 12260,
+            "eEndtimeHead": 12260,
+            "eStartimeBehind": 12640,
+            "eEndtimeBehind": 12640
+          },
+          {
+            "word": "冰",
+            "wordStartime": 12640,
+            "wordEndtime": 12980,
+            "contentStartime": 12640,
+            "contentEndtime": 12980,
+            "eStartimeHead": 12640,
+            "eEndtimeHead": 12640,
+            "eStartimeBehind": 12980,
+            "eEndtimeBehind": 12980
+          },
+          {
+            "word": "封",
+            "wordStartime": 12980,
+            "wordEndtime": 14100,
+            "contentStartime": 12980,
+            "contentEndtime": 14100,
+            "eStartimeHead": 12980,
+            "eEndtimeHead": 12980,
+            "eStartimeBehind": 14100,
+            "eEndtimeBehind": 14100
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue3.mp3",
+        "mask": [],
+        "line": 3,
+        "label": "万里雪飘。",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "万",
+            "wordStartime": 14100,
+            "wordEndtime": 15000,
+            "contentStartime": 14340,
+            "contentEndtime": 15000,
+            "eStartimeHead": 14100,
+            "eEndtimeHead": 14340,
+            "eStartimeBehind": 15000,
+            "eEndtimeBehind": 15000
+          },
+          {
+            "word": "里",
+            "wordStartime": 15000,
+            "wordEndtime": 15740,
+            "contentStartime": 15000,
+            "contentEndtime": 15740,
+            "eStartimeHead": 15000,
+            "eEndtimeHead": 15000,
+            "eStartimeBehind": 15740,
+            "eEndtimeBehind": 15740
+          },
+          {
+            "word": "雪",
+            "wordStartime": 15740,
+            "wordEndtime": 16720,
+            "contentStartime": 15880,
+            "contentEndtime": 16720,
+            "eStartimeHead": 15740,
+            "eEndtimeHead": 15880,
+            "eStartimeBehind": 16720,
+            "eEndtimeBehind": 16720
+          },
+          {
+            "word": "飘",
+            "wordStartime": 16720,
+            "wordEndtime": 17700,
+            "contentStartime": 16800,
+            "contentEndtime": 17700,
+            "eStartimeHead": 16720,
+            "eEndtimeHead": 16800,
+            "eStartimeBehind": 17700,
+            "eEndtimeBehind": 17700
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue4.mp3",
+        "mask": [],
+        "line": 4,
+        "label": "望长城内外，",
+        "cutoff": [
+          1
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "望",
+            "wordStartime": 17700,
+            "wordEndtime": 19880,
+            "contentStartime": 19420,
+            "contentEndtime": 19880,
+            "eStartimeHead": 17700,
+            "eEndtimeHead": 19420,
+            "eStartimeBehind": 19880,
+            "eEndtimeBehind": 19880
+          },
+          {
+            "word": "长",
+            "wordStartime": 19880,
+            "wordEndtime": 20660,
+            "contentStartime": 20020,
+            "contentEndtime": 20660,
+            "eStartimeHead": 19880,
+            "eEndtimeHead": 20020,
+            "eStartimeBehind": 20660,
+            "eEndtimeBehind": 20660
+          },
+          {
+            "word": "城",
+            "wordStartime": 20660,
+            "wordEndtime": 21110,
+            "contentStartime": 20660,
+            "contentEndtime": 21110,
+            "eStartimeHead": 20660,
+            "eEndtimeHead": 20660,
+            "eStartimeBehind": 21110,
+            "eEndtimeBehind": 21110
+          },
+          {
+            "word": "内",
+            "wordStartime": 21110,
+            "wordEndtime": 21340,
+            "contentStartime": 21110,
+            "contentEndtime": 21340,
+            "eStartimeHead": 21110,
+            "eEndtimeHead": 21110,
+            "eStartimeBehind": 21340,
+            "eEndtimeBehind": 21340
+          },
+          {
+            "word": "外",
+            "wordStartime": 21340,
+            "wordEndtime": 22100,
+            "contentStartime": 21340,
+            "contentEndtime": 22100,
+            "eStartimeHead": 21340,
+            "eEndtimeHead": 21340,
+            "eStartimeBehind": 22100,
+            "eEndtimeBehind": 22100
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔惟余莽莽〕只剩下白茫茫一片。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              3,
+              4
+            ],
+            "option": [
+              "茫茫",
+              "莽莽",
+              "漭漭"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue5.mp3",
+        "mask": [],
+        "line": 5,
+        "label": "惟余莽莽；",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "惟",
+            "wordStartime": 22100,
+            "wordEndtime": 22820,
+            "contentStartime": 22260,
+            "contentEndtime": 22820,
+            "eStartimeHead": 22100,
+            "eEndtimeHead": 22260,
+            "eStartimeBehind": 22820,
+            "eEndtimeBehind": 22820
+          },
+          {
+            "word": "余",
+            "wordStartime": 22820,
+            "wordEndtime": 23520,
+            "contentStartime": 22820,
+            "contentEndtime": 23520,
+            "eStartimeHead": 22820,
+            "eEndtimeHead": 22820,
+            "eStartimeBehind": 23520,
+            "eEndtimeBehind": 23520
+          },
+          {
+            "word": "莽",
+            "wordStartime": 23520,
+            "wordEndtime": 24080,
+            "contentStartime": 23520,
+            "contentEndtime": 24080,
+            "eStartimeHead": 23520,
+            "eEndtimeHead": 23520,
+            "eStartimeBehind": 24080,
+            "eEndtimeBehind": 24080
+          },
+          {
+            "word": "莽",
+            "wordStartime": 24080,
+            "wordEndtime": 24760,
+            "contentStartime": 24220,
+            "contentEndtime": 24760,
+            "eStartimeHead": 24080,
+            "eEndtimeHead": 24220,
+            "eStartimeBehind": 24760,
+            "eEndtimeBehind": 24760
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue6.mp3",
+        "mask": [],
+        "line": 6,
+        "label": "大河上下，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "大",
+            "wordStartime": 24760,
+            "wordEndtime": 25900,
+            "contentStartime": 25460,
+            "contentEndtime": 25900,
+            "eStartimeHead": 24760,
+            "eEndtimeHead": 25460,
+            "eStartimeBehind": 25900,
+            "eEndtimeBehind": 25900
+          },
+          {
+            "word": "河",
+            "wordStartime": 25900,
+            "wordEndtime": 26200,
+            "contentStartime": 25900,
+            "contentEndtime": 26200,
+            "eStartimeHead": 25900,
+            "eEndtimeHead": 25900,
+            "eStartimeBehind": 26200,
+            "eEndtimeBehind": 26200
+          },
+          {
+            "word": "上",
+            "wordStartime": 26200,
+            "wordEndtime": 26500,
+            "contentStartime": 26200,
+            "contentEndtime": 26500,
+            "eStartimeHead": 26200,
+            "eEndtimeHead": 26200,
+            "eStartimeBehind": 26500,
+            "eEndtimeBehind": 26500
+          },
+          {
+            "word": "下",
+            "wordStartime": 26500,
+            "wordEndtime": 27020,
+            "contentStartime": 26500,
+            "contentEndtime": 27020,
+            "eStartimeHead": 26500,
+            "eEndtimeHead": 26500,
+            "eStartimeBehind": 27020,
+            "eEndtimeBehind": 27020
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              3,
+              4
+            ],
+            "option": "〔滔滔〕这里指黄河波涛滚滚的样子。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              3,
+              4
+            ],
+            "option": [
+              "滔滔",
+              "涛涛",
+              "淘淘"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue7.mp3",
+        "mask": [],
+        "line": 7,
+        "label": "顿失滔滔。",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "顿",
+            "wordStartime": 27020,
+            "wordEndtime": 27660,
+            "contentStartime": 27300,
+            "contentEndtime": 27660,
+            "eStartimeHead": 27020,
+            "eEndtimeHead": 27300,
+            "eStartimeBehind": 27660,
+            "eEndtimeBehind": 27660
+          },
+          {
+            "word": "失",
+            "wordStartime": 27660,
+            "wordEndtime": 28520,
+            "contentStartime": 27660,
+            "contentEndtime": 28520,
+            "eStartimeHead": 27660,
+            "eEndtimeHead": 27660,
+            "eStartimeBehind": 28520,
+            "eEndtimeBehind": 28520
+          },
+          {
+            "word": "滔",
+            "wordStartime": 28520,
+            "wordEndtime": 29740,
+            "contentStartime": 28980,
+            "contentEndtime": 29740,
+            "eStartimeHead": 28520,
+            "eEndtimeHead": 28980,
+            "eStartimeBehind": 29740,
+            "eEndtimeBehind": 29740
+          },
+          {
+            "word": "滔",
+            "wordStartime": 29740,
+            "wordEndtime": 30440,
+            "contentStartime": 29740,
+            "contentEndtime": 30440,
+            "eStartimeHead": 29740,
+            "eEndtimeHead": 29740,
+            "eStartimeBehind": 30440,
+            "eEndtimeBehind": 30440
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔山舞银蛇，原驰蜡象〕群山好像（一条条）银蛇在舞动，高原（上的丘陵）好像（许多）白象在奔跑。原，作者自注：“原指高原，即秦晋高原。”蜡象，白色的象。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue8.mp3",
+        "mask": [],
+        "line": 8,
+        "label": "山舞银蛇，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "山",
+            "wordStartime": 30440,
+            "wordEndtime": 34300,
+            "contentStartime": 33660,
+            "contentEndtime": 34300,
+            "eStartimeHead": 30440,
+            "eEndtimeHead": 33660,
+            "eStartimeBehind": 34300,
+            "eEndtimeBehind": 34300
+          },
+          {
+            "word": "舞",
+            "wordStartime": 34300,
+            "wordEndtime": 34680,
+            "contentStartime": 34300,
+            "contentEndtime": 34680,
+            "eStartimeHead": 34300,
+            "eEndtimeHead": 34300,
+            "eStartimeBehind": 34680,
+            "eEndtimeBehind": 34680
+          },
+          {
+            "word": "银",
+            "wordStartime": 34680,
+            "wordEndtime": 35040,
+            "contentStartime": 34680,
+            "contentEndtime": 35040,
+            "eStartimeHead": 34680,
+            "eEndtimeHead": 34680,
+            "eStartimeBehind": 35040,
+            "eEndtimeBehind": 35040
+          },
+          {
+            "word": "蛇",
+            "wordStartime": 35040,
+            "wordEndtime": 35780,
+            "contentStartime": 35040,
+            "contentEndtime": 35780,
+            "eStartimeHead": 35040,
+            "eEndtimeHead": 35040,
+            "eStartimeBehind": 35780,
+            "eEndtimeBehind": 35780
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔山舞银蛇，原驰蜡象〕群山好像（一条条）银蛇在舞动，高原（上的丘陵）好像（许多）白象在奔跑。原，作者自注：“原指高原，即秦晋高原。”蜡象，白色的象。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              1,
+              2
+            ],
+            "option": [
+              "原迟",
+              "原驰",
+              "远池"
+            ]
+          },
+          {
+            "wordIndex": [
+              3,
+              4
+            ],
+            "option": [
+              "蜡象",
+              "腊象",
+              "蜡像"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue9.mp3",
+        "mask": [],
+        "line": 9,
+        "label": "原驰蜡象，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "原",
+            "wordStartime": 35780,
+            "wordEndtime": 36880,
+            "contentStartime": 36180,
+            "contentEndtime": 36880,
+            "eStartimeHead": 35780,
+            "eEndtimeHead": 36180,
+            "eStartimeBehind": 36880,
+            "eEndtimeBehind": 36880
+          },
+          {
+            "word": "驰",
+            "wordStartime": 36880,
+            "wordEndtime": 37240,
+            "contentStartime": 36880,
+            "contentEndtime": 37240,
+            "eStartimeHead": 36880,
+            "eEndtimeHead": 36880,
+            "eStartimeBehind": 37240,
+            "eEndtimeBehind": 37240
+          },
+          {
+            "word": "蜡",
+            "wordStartime": 37240,
+            "wordEndtime": 37540,
+            "contentStartime": 37240,
+            "contentEndtime": 37540,
+            "eStartimeHead": 37240,
+            "eEndtimeHead": 37240,
+            "eStartimeBehind": 37540,
+            "eEndtimeBehind": 37540
+          },
+          {
+            "word": "象",
+            "wordStartime": 37540,
+            "wordEndtime": 38060,
+            "contentStartime": 37540,
+            "contentEndtime": 38060,
+            "eStartimeHead": 37540,
+            "eEndtimeHead": 37540,
+            "eStartimeBehind": 38060,
+            "eEndtimeBehind": 38060
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              3,
+              4
+            ],
+            "option": "〔天公〕指天。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue10.mp3",
+        "mask": [],
+        "line": 10,
+        "label": "欲与天公试比高。",
+        "cutoff": [
+          2,
+          5
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "欲",
+            "wordStartime": 38060,
+            "wordEndtime": 38880,
+            "contentStartime": 38500,
+            "contentEndtime": 38880,
+            "eStartimeHead": 38060,
+            "eEndtimeHead": 38500,
+            "eStartimeBehind": 38880,
+            "eEndtimeBehind": 38880
+          },
+          {
+            "word": "与",
+            "wordStartime": 38880,
+            "wordEndtime": 39160,
+            "contentStartime": 38880,
+            "contentEndtime": 39160,
+            "eStartimeHead": 38880,
+            "eEndtimeHead": 38880,
+            "eStartimeBehind": 39160,
+            "eEndtimeBehind": 39160
+          },
+          {
+            "word": "天",
+            "wordStartime": 39160,
+            "wordEndtime": 39680,
+            "contentStartime": 39160,
+            "contentEndtime": 39680,
+            "eStartimeHead": 39160,
+            "eEndtimeHead": 39160,
+            "eStartimeBehind": 39680,
+            "eEndtimeBehind": 39680
+          },
+          {
+            "word": "公",
+            "wordStartime": 39680,
+            "wordEndtime": 40640,
+            "contentStartime": 39680,
+            "contentEndtime": 40640,
+            "eStartimeHead": 39680,
+            "eEndtimeHead": 39680,
+            "eStartimeBehind": 40640,
+            "eEndtimeBehind": 40640
+          },
+          {
+            "word": "试",
+            "wordStartime": 40640,
+            "wordEndtime": 41840,
+            "contentStartime": 40940,
+            "contentEndtime": 41840,
+            "eStartimeHead": 40640,
+            "eEndtimeHead": 40940,
+            "eStartimeBehind": 41840,
+            "eEndtimeBehind": 41840
+          },
+          {
+            "word": "比",
+            "wordStartime": 41840,
+            "wordEndtime": 42400,
+            "contentStartime": 41840,
+            "contentEndtime": 42400,
+            "eStartimeHead": 41840,
+            "eEndtimeHead": 41840,
+            "eStartimeBehind": 42400,
+            "eEndtimeBehind": 42400
+          },
+          {
+            "word": "高",
+            "wordStartime": 42400,
+            "wordEndtime": 42980,
+            "contentStartime": 42400,
+            "contentEndtime": 42980,
+            "eStartimeHead": 42400,
+            "eEndtimeHead": 42400,
+            "eStartimeBehind": 42980,
+            "eEndtimeBehind": 42980
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1
+            ],
+            "option": "〔须〕等到。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue11.mp3",
+        "mask": [],
+        "line": 11,
+        "label": "须晴日，",
+        "cutoff": [],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "须",
+            "wordStartime": 42980,
+            "wordEndtime": 46500,
+            "contentStartime": 45860,
+            "contentEndtime": 46500,
+            "eStartimeHead": 42980,
+            "eEndtimeHead": 45860,
+            "eStartimeBehind": 46500,
+            "eEndtimeBehind": 46500
+          },
+          {
+            "word": "晴",
+            "wordStartime": 46500,
+            "wordEndtime": 47060,
+            "contentStartime": 46500,
+            "contentEndtime": 47060,
+            "eStartimeHead": 46500,
+            "eEndtimeHead": 46500,
+            "eStartimeBehind": 47060,
+            "eEndtimeBehind": 47060
+          },
+          {
+            "word": "日",
+            "wordStartime": 47060,
+            "wordEndtime": 47640,
+            "contentStartime": 47060,
+            "contentEndtime": 47640,
+            "eStartimeHead": 47060,
+            "eEndtimeHead": 47060,
+            "eStartimeBehind": 47640,
+            "eEndtimeBehind": 47640
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              2,
+              5
+            ],
+            "option": "〔红装素裹〕形容雪后天晴，红日和白雪交相辉映的壮丽景色。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              2,
+              3
+            ],
+            "option": [
+              "红装",
+              "红妆",
+              "虹装"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue12.mp3",
+        "mask": [],
+        "line": 12,
+        "label": "看红装素裹，",
+        "cutoff": [
+          1
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "看",
+            "wordStartime": 47640,
+            "wordEndtime": 48760,
+            "contentStartime": 48300,
+            "contentEndtime": 48760,
+            "eStartimeHead": 47640,
+            "eEndtimeHead": 48300,
+            "eStartimeBehind": 48760,
+            "eEndtimeBehind": 48760
+          },
+          {
+            "word": "红",
+            "wordStartime": 48760,
+            "wordEndtime": 49320,
+            "contentStartime": 48760,
+            "contentEndtime": 49320,
+            "eStartimeHead": 48760,
+            "eEndtimeHead": 48760,
+            "eStartimeBehind": 49320,
+            "eEndtimeBehind": 49320
+          },
+          {
+            "word": "装",
+            "wordStartime": 49320,
+            "wordEndtime": 49900,
+            "contentStartime": 49320,
+            "contentEndtime": 49900,
+            "eStartimeHead": 49320,
+            "eEndtimeHead": 49320,
+            "eStartimeBehind": 49900,
+            "eEndtimeBehind": 49900
+          },
+          {
+            "word": "素",
+            "wordStartime": 49900,
+            "wordEndtime": 50420,
+            "contentStartime": 49900,
+            "contentEndtime": 50420,
+            "eStartimeHead": 49900,
+            "eEndtimeHead": 49900,
+            "eStartimeBehind": 50420,
+            "eEndtimeBehind": 50420
+          },
+          {
+            "word": "裹",
+            "wordStartime": 50420,
+            "wordEndtime": 51160,
+            "contentStartime": 50420,
+            "contentEndtime": 51160,
+            "eStartimeHead": 50420,
+            "eEndtimeHead": 50420,
+            "eStartimeBehind": 51160,
+            "eEndtimeBehind": 51160
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              3,
+              4
+            ],
+            "option": "〔妖娆（ ráo）〕娇艳美好。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue13.mp3",
+        "mask": [],
+        "line": 13,
+        "label": "分外妖娆。",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "分",
+            "wordStartime": 51160,
+            "wordEndtime": 52260,
+            "contentStartime": 51740,
+            "contentEndtime": 52260,
+            "eStartimeHead": 51160,
+            "eEndtimeHead": 51740,
+            "eStartimeBehind": 52260,
+            "eEndtimeBehind": 52260
+          },
+          {
+            "word": "外",
+            "wordStartime": 52260,
+            "wordEndtime": 52920,
+            "contentStartime": 52260,
+            "contentEndtime": 52920,
+            "eStartimeHead": 52260,
+            "eEndtimeHead": 52260,
+            "eStartimeBehind": 52920,
+            "eEndtimeBehind": 52920
+          },
+          {
+            "word": "妖",
+            "wordStartime": 52920,
+            "wordEndtime": 53620,
+            "contentStartime": 53020,
+            "contentEndtime": 53620,
+            "eStartimeHead": 52920,
+            "eEndtimeHead": 53020,
+            "eStartimeBehind": 53620,
+            "eEndtimeBehind": 53620
+          },
+          {
+            "word": "娆",
+            "wordStartime": 53620,
+            "wordEndtime": 54600,
+            "contentStartime": 54060,
+            "contentEndtime": 54600,
+            "eStartimeHead": 53620,
+            "eEndtimeHead": 54060,
+            "eStartimeBehind": 54600,
+            "eEndtimeBehind": 54600
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue14.mp3",
+        "mask": [],
+        "line": 14,
+        "label": "江山如此多娇，",
+        "cutoff": [
+          2,
+          5
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "江",
+            "wordStartime": 54600,
+            "wordEndtime": 57960,
+            "contentStartime": 57620,
+            "contentEndtime": 57960,
+            "eStartimeHead": 54600,
+            "eEndtimeHead": 57620,
+            "eStartimeBehind": 57960,
+            "eEndtimeBehind": 57960
+          },
+          {
+            "word": "山",
+            "wordStartime": 57960,
+            "wordEndtime": 58580,
+            "contentStartime": 57960,
+            "contentEndtime": 58580,
+            "eStartimeHead": 57960,
+            "eEndtimeHead": 57960,
+            "eStartimeBehind": 58580,
+            "eEndtimeBehind": 58580
+          },
+          {
+            "word": "如",
+            "wordStartime": 58580,
+            "wordEndtime": 59360,
+            "contentStartime": 58580,
+            "contentEndtime": 59360,
+            "eStartimeHead": 58580,
+            "eEndtimeHead": 58580,
+            "eStartimeBehind": 59360,
+            "eEndtimeBehind": 59360
+          },
+          {
+            "word": "此",
+            "wordStartime": 59360,
+            "wordEndtime": 59740,
+            "contentStartime": 59360,
+            "contentEndtime": 59740,
+            "eStartimeHead": 59360,
+            "eEndtimeHead": 59360,
+            "eStartimeBehind": 59740,
+            "eEndtimeBehind": 59740
+          },
+          {
+            "word": "多",
+            "wordStartime": 59740,
+            "wordEndtime": 60040,
+            "contentStartime": 59740,
+            "contentEndtime": 60040,
+            "eStartimeHead": 59740,
+            "eEndtimeHead": 59740,
+            "eStartimeBehind": 60040,
+            "eEndtimeBehind": 60040
+          },
+          {
+            "word": "娇",
+            "wordStartime": 60040,
+            "wordEndtime": 60780,
+            "contentStartime": 60040,
+            "contentEndtime": 60780,
+            "eStartimeHead": 60040,
+            "eEndtimeHead": 60040,
+            "eStartimeBehind": 60780,
+            "eEndtimeBehind": 60780
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              7,
+              8
+            ],
+            "option": "〔折腰〕弯腰行礼，这里是倾倒的意思。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue15.mp3",
+        "mask": [],
+        "line": 15,
+        "label": "引无数英雄竞折腰。",
+        "cutoff": [
+          1,
+          6
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "引",
+            "wordStartime": 60780,
+            "wordEndtime": 61460,
+            "contentStartime": 60900,
+            "contentEndtime": 61460,
+            "eStartimeHead": 60780,
+            "eEndtimeHead": 60900,
+            "eStartimeBehind": 61460,
+            "eEndtimeBehind": 61460
+          },
+          {
+            "word": "无",
+            "wordStartime": 61460,
+            "wordEndtime": 61880,
+            "contentStartime": 61460,
+            "contentEndtime": 61880,
+            "eStartimeHead": 61460,
+            "eEndtimeHead": 61460,
+            "eStartimeBehind": 61880,
+            "eEndtimeBehind": 61880
+          },
+          {
+            "word": "数",
+            "wordStartime": 61880,
+            "wordEndtime": 62240,
+            "contentStartime": 61880,
+            "contentEndtime": 62240,
+            "eStartimeHead": 61880,
+            "eEndtimeHead": 61880,
+            "eStartimeBehind": 62240,
+            "eEndtimeBehind": 62240
+          },
+          {
+            "word": "英",
+            "wordStartime": 62240,
+            "wordEndtime": 62520,
+            "contentStartime": 62240,
+            "contentEndtime": 62520,
+            "eStartimeHead": 62240,
+            "eEndtimeHead": 62240,
+            "eStartimeBehind": 62520,
+            "eEndtimeBehind": 62520
+          },
+          {
+            "word": "雄",
+            "wordStartime": 62520,
+            "wordEndtime": 63240,
+            "contentStartime": 62520,
+            "contentEndtime": 63240,
+            "eStartimeHead": 62520,
+            "eEndtimeHead": 62520,
+            "eStartimeBehind": 63240,
+            "eEndtimeBehind": 63240
+          },
+          {
+            "word": "竞",
+            "wordStartime": 63240,
+            "wordEndtime": 63960,
+            "contentStartime": 63240,
+            "contentEndtime": 63960,
+            "eStartimeHead": 63240,
+            "eEndtimeHead": 63240,
+            "eStartimeBehind": 63960,
+            "eEndtimeBehind": 63960
+          },
+          {
+            "word": "折",
+            "wordStartime": 63960,
+            "wordEndtime": 64360,
+            "contentStartime": 63960,
+            "contentEndtime": 64360,
+            "eStartimeHead": 63960,
+            "eEndtimeHead": 63960,
+            "eStartimeBehind": 64360,
+            "eEndtimeBehind": 64360
+          },
+          {
+            "word": "腰",
+            "wordStartime": 64360,
+            "wordEndtime": 64780,
+            "contentStartime": 64360,
+            "contentEndtime": 64780,
+            "eStartimeHead": 64360,
+            "eEndtimeHead": 64360,
+            "eStartimeBehind": 64780,
+            "eEndtimeBehind": 64780
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              2,
+              5
+            ],
+            "option": "〔秦皇汉武〕指秦始皇嬴政（前259—前210）和汉武帝刘彻（前156—前87）。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue16.mp3",
+        "mask": [],
+        "line": 16,
+        "label": "惜秦皇汉武，",
+        "cutoff": [
+          1
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "惜",
+            "wordStartime": 64780,
+            "wordEndtime": 66980,
+            "contentStartime": 66480,
+            "contentEndtime": 66980,
+            "eStartimeHead": 64780,
+            "eEndtimeHead": 66480,
+            "eStartimeBehind": 66980,
+            "eEndtimeBehind": 66980
+          },
+          {
+            "word": "秦",
+            "wordStartime": 66980,
+            "wordEndtime": 67410,
+            "contentStartime": 66980,
+            "contentEndtime": 67410,
+            "eStartimeHead": 66980,
+            "eEndtimeHead": 66980,
+            "eStartimeBehind": 67410,
+            "eEndtimeBehind": 67410
+          },
+          {
+            "word": "皇",
+            "wordStartime": 67410,
+            "wordEndtime": 67700,
+            "contentStartime": 67410,
+            "contentEndtime": 67700,
+            "eStartimeHead": 67410,
+            "eEndtimeHead": 67410,
+            "eStartimeBehind": 67700,
+            "eEndtimeBehind": 67700
+          },
+          {
+            "word": "汉",
+            "wordStartime": 67700,
+            "wordEndtime": 68040,
+            "contentStartime": 67700,
+            "contentEndtime": 68040,
+            "eStartimeHead": 67700,
+            "eEndtimeHead": 67700,
+            "eStartimeBehind": 68040,
+            "eEndtimeBehind": 68040
+          },
+          {
+            "word": "武",
+            "wordStartime": 68040,
+            "wordEndtime": 68660,
+            "contentStartime": 68040,
+            "contentEndtime": 68660,
+            "eStartimeHead": 68040,
+            "eEndtimeHead": 68040,
+            "eStartimeBehind": 68660,
+            "eEndtimeBehind": 68660
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔略输文采〕文采本指辞藻、才华。这里是说秦皇汉武武功甚盛，对比之下，文治方面的成就略有逊色。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              3,
+              4
+            ],
+            "option": [
+              "文才",
+              "文彩",
+              "文采"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue17.mp3",
+        "mask": [],
+        "line": 17,
+        "label": "略输文采；",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "略",
+            "wordStartime": 68660,
+            "wordEndtime": 69520,
+            "contentStartime": 68980,
+            "contentEndtime": 69520,
+            "eStartimeHead": 68660,
+            "eEndtimeHead": 68980,
+            "eStartimeBehind": 69520,
+            "eEndtimeBehind": 69520
+          },
+          {
+            "word": "输",
+            "wordStartime": 69520,
+            "wordEndtime": 70000,
+            "contentStartime": 69520,
+            "contentEndtime": 70000,
+            "eStartimeHead": 69520,
+            "eEndtimeHead": 69520,
+            "eStartimeBehind": 70000,
+            "eEndtimeBehind": 70000
+          },
+          {
+            "word": "文",
+            "wordStartime": 70000,
+            "wordEndtime": 70280,
+            "contentStartime": 70000,
+            "contentEndtime": 70280,
+            "eStartimeHead": 70000,
+            "eEndtimeHead": 70000,
+            "eStartimeBehind": 70280,
+            "eEndtimeBehind": 70280
+          },
+          {
+            "word": "采",
+            "wordStartime": 70280,
+            "wordEndtime": 70760,
+            "contentStartime": 70280,
+            "contentEndtime": 70760,
+            "eStartimeHead": 70280,
+            "eEndtimeHead": 70280,
+            "eStartimeBehind": 70760,
+            "eEndtimeBehind": 70760
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔唐宗宋祖〕指唐太宗李世民（ 598—649）和宋太祖赵匡胤（ 927—976）。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue18.mp3",
+        "mask": [],
+        "line": 18,
+        "label": "唐宗宋祖，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "唐",
+            "wordStartime": 70760,
+            "wordEndtime": 71700,
+            "contentStartime": 71160,
+            "contentEndtime": 71700,
+            "eStartimeHead": 70760,
+            "eEndtimeHead": 71160,
+            "eStartimeBehind": 71700,
+            "eEndtimeBehind": 71700
+          },
+          {
+            "word": "宗",
+            "wordStartime": 71700,
+            "wordEndtime": 71960,
+            "contentStartime": 71700,
+            "contentEndtime": 71960,
+            "eStartimeHead": 71700,
+            "eEndtimeHead": 71700,
+            "eStartimeBehind": 71960,
+            "eEndtimeBehind": 71960
+          },
+          {
+            "word": "宋",
+            "wordStartime": 71960,
+            "wordEndtime": 72300,
+            "contentStartime": 71960,
+            "contentEndtime": 72300,
+            "eStartimeHead": 71960,
+            "eEndtimeHead": 71960,
+            "eStartimeBehind": 72300,
+            "eEndtimeBehind": 72300
+          },
+          {
+            "word": "祖",
+            "wordStartime": 72300,
+            "wordEndtime": 72860,
+            "contentStartime": 72300,
+            "contentEndtime": 72860,
+            "eStartimeHead": 72300,
+            "eEndtimeHead": 72300,
+            "eStartimeBehind": 72860,
+            "eEndtimeBehind": 72860
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔稍逊风骚〕意近“略输文采”。风骚，本指《诗经》里的《国风》和《楚辞》中的《离骚》，后来泛指文章辞藻。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              3,
+              4
+            ],
+            "option": [
+              "风搔",
+              "风骚",
+              "锋骚"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue19.mp3",
+        "mask": [],
+        "line": 19,
+        "label": "稍逊风骚。",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "稍",
+            "wordStartime": 72860,
+            "wordEndtime": 73780,
+            "contentStartime": 73340,
+            "contentEndtime": 73780,
+            "eStartimeHead": 72860,
+            "eEndtimeHead": 73340,
+            "eStartimeBehind": 73780,
+            "eEndtimeBehind": 73780
+          },
+          {
+            "word": "逊",
+            "wordStartime": 73780,
+            "wordEndtime": 74440,
+            "contentStartime": 73780,
+            "contentEndtime": 74440,
+            "eStartimeHead": 73780,
+            "eEndtimeHead": 73780,
+            "eStartimeBehind": 74440,
+            "eEndtimeBehind": 74440
+          },
+          {
+            "word": "风",
+            "wordStartime": 74440,
+            "wordEndtime": 75160,
+            "contentStartime": 74540,
+            "contentEndtime": 75160,
+            "eStartimeHead": 74440,
+            "eEndtimeHead": 74540,
+            "eStartimeBehind": 75160,
+            "eEndtimeBehind": 75160
+          },
+          {
+            "word": "骚",
+            "wordStartime": 75160,
+            "wordEndtime": 75820,
+            "contentStartime": 75160,
+            "contentEndtime": 75820,
+            "eStartimeHead": 75160,
+            "eEndtimeHead": 75160,
+            "eStartimeBehind": 75820,
+            "eEndtimeBehind": 75820
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              3,
+              4
+            ],
+            "option": "〔天骄〕天之骄子。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue20.mp3",
+        "mask": [],
+        "line": 20,
+        "label": "一代天骄，",
+        "cutoff": [
+          2
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "一",
+            "wordStartime": 75820,
+            "wordEndtime": 77420,
+            "contentStartime": 77150,
+            "contentEndtime": 77420,
+            "eStartimeHead": 75820,
+            "eEndtimeHead": 77150,
+            "eStartimeBehind": 77420,
+            "eEndtimeBehind": 77420
+          },
+          {
+            "word": "代",
+            "wordStartime": 77420,
+            "wordEndtime": 77680,
+            "contentStartime": 77420,
+            "contentEndtime": 77680,
+            "eStartimeHead": 77420,
+            "eEndtimeHead": 77420,
+            "eStartimeBehind": 77680,
+            "eEndtimeBehind": 77680
+          },
+          {
+            "word": "天",
+            "wordStartime": 77680,
+            "wordEndtime": 77980,
+            "contentStartime": 77680,
+            "contentEndtime": 77980,
+            "eStartimeHead": 77680,
+            "eEndtimeHead": 77680,
+            "eStartimeBehind": 77980,
+            "eEndtimeBehind": 77980
+          },
+          {
+            "word": "骄",
+            "wordStartime": 77980,
+            "wordEndtime": 78260,
+            "contentStartime": 77980,
+            "contentEndtime": 78260,
+            "eStartimeHead": 77980,
+            "eEndtimeHead": 77980,
+            "eStartimeBehind": 78260,
+            "eEndtimeBehind": 78260
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              4
+            ],
+            "option": "〔成吉思汗（ hán）〕即元太祖铁木真（ 1162—1227）。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue21.mp3",
+        "mask": [],
+        "line": 21,
+        "label": "成吉思汗，",
+        "cutoff": [],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "成",
+            "wordStartime": 78260,
+            "wordEndtime": 78960,
+            "contentStartime": 78550,
+            "contentEndtime": 78960,
+            "eStartimeHead": 78260,
+            "eEndtimeHead": 78550,
+            "eStartimeBehind": 78960,
+            "eEndtimeBehind": 78960
+          },
+          {
+            "word": "吉",
+            "wordStartime": 78960,
+            "wordEndtime": 79160,
+            "contentStartime": 78960,
+            "contentEndtime": 79160,
+            "eStartimeHead": 78960,
+            "eEndtimeHead": 78960,
+            "eStartimeBehind": 79160,
+            "eEndtimeBehind": 79160
+          },
+          {
+            "word": "思",
+            "wordStartime": 79160,
+            "wordEndtime": 79440,
+            "contentStartime": 79160,
+            "contentEndtime": 79440,
+            "eStartimeHead": 79160,
+            "eEndtimeHead": 79160,
+            "eStartimeBehind": 79440,
+            "eEndtimeBehind": 79440
+          },
+          {
+            "word": "汗",
+            "wordStartime": 79440,
+            "wordEndtime": 80040,
+            "contentStartime": 79440,
+            "contentEndtime": 80040,
+            "eStartimeHead": 79440,
+            "eEndtimeHead": 79440,
+            "eStartimeBehind": 80040,
+            "eEndtimeBehind": 80040
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              3,
+              4
+            ],
+            "option": "〔弯弓〕拉弓。"
+          },
+          {
+            "place": [
+              7
+            ],
+            "option": "〔雕〕一种猛禽。"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue22.mp3",
+        "mask": [],
+        "line": 22,
+        "label": "只识弯弓射大雕。",
+        "cutoff": [
+          4
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "只",
+            "wordStartime": 80040,
+            "wordEndtime": 80940,
+            "contentStartime": 80660,
+            "contentEndtime": 80940,
+            "eStartimeHead": 80040,
+            "eEndtimeHead": 80660,
+            "eStartimeBehind": 80940,
+            "eEndtimeBehind": 80940
+          },
+          {
+            "word": "识",
+            "wordStartime": 80940,
+            "wordEndtime": 81400,
+            "contentStartime": 80940,
+            "contentEndtime": 81400,
+            "eStartimeHead": 80940,
+            "eEndtimeHead": 80940,
+            "eStartimeBehind": 81400,
+            "eEndtimeBehind": 81400
+          },
+          {
+            "word": "弯",
+            "wordStartime": 81400,
+            "wordEndtime": 81840,
+            "contentStartime": 81400,
+            "contentEndtime": 81840,
+            "eStartimeHead": 81400,
+            "eEndtimeHead": 81400,
+            "eStartimeBehind": 81840,
+            "eEndtimeBehind": 81840
+          },
+          {
+            "word": "弓",
+            "wordStartime": 81840,
+            "wordEndtime": 82580,
+            "contentStartime": 81840,
+            "contentEndtime": 82580,
+            "eStartimeHead": 81840,
+            "eEndtimeHead": 81840,
+            "eStartimeBehind": 82580,
+            "eEndtimeBehind": 82580
+          },
+          {
+            "word": "射",
+            "wordStartime": 82580,
+            "wordEndtime": 83660,
+            "contentStartime": 82680,
+            "contentEndtime": 83660,
+            "eStartimeHead": 82580,
+            "eEndtimeHead": 82680,
+            "eStartimeBehind": 83660,
+            "eEndtimeBehind": 83660
+          },
+          {
+            "word": "大",
+            "wordStartime": 83660,
+            "wordEndtime": 84140,
+            "contentStartime": 83660,
+            "contentEndtime": 84140,
+            "eStartimeHead": 83660,
+            "eEndtimeHead": 83660,
+            "eStartimeBehind": 84140,
+            "eEndtimeBehind": 84140
+          },
+          {
+            "word": "雕",
+            "wordStartime": 84140,
+            "wordEndtime": 84800,
+            "contentStartime": 84140,
+            "contentEndtime": 84800,
+            "eStartimeHead": 84140,
+            "eEndtimeHead": 84140,
+            "eStartimeBehind": 84800,
+            "eEndtimeBehind": 84800
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              1,
+              3
+            ],
+            "option": "〔俱往矣〕都过去了。俱，都。"
+          }
+        ],
+        "termOptions": [
+          {
+            "wordIndex": [
+              1,
+              3
+            ],
+            "option": [
+              "矣俱往",
+              "俱往已",
+              "具往噫"
+            ]
+          }
+        ],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue23.mp3",
+        "mask": [],
+        "line": 23,
+        "label": "俱往矣，",
+        "cutoff": [],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "俱",
+            "wordStartime": 84800,
+            "wordEndtime": 88540,
+            "contentStartime": 87840,
+            "contentEndtime": 88540,
+            "eStartimeHead": 84800,
+            "eEndtimeHead": 87840,
+            "eStartimeBehind": 88540,
+            "eEndtimeBehind": 88540
+          },
+          {
+            "word": "往",
+            "wordStartime": 88540,
+            "wordEndtime": 89040,
+            "contentStartime": 88540,
+            "contentEndtime": 89040,
+            "eStartimeHead": 88540,
+            "eEndtimeHead": 88540,
+            "eStartimeBehind": 89040,
+            "eEndtimeBehind": 89040
+          },
+          {
+            "word": "矣",
+            "wordStartime": 89040,
+            "wordEndtime": 90020,
+            "contentStartime": 89040,
+            "contentEndtime": 90020,
+            "eStartimeHead": 89040,
+            "eEndtimeHead": 89040,
+            "eStartimeBehind": 90020,
+            "eEndtimeBehind": 90020
+          }
+        ]
+      },
+      {
+        "annotation": [
+          {
+            "place": [
+              2,
+              5
+            ],
+            "option": "〔风流人物〕这里指能建功立业的英雄人物。作者自注：“末三句，是指无产阶级。”"
+          }
+        ],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue24.mp3",
+        "mask": [],
+        "line": 24,
+        "label": "数风流人物，",
+        "cutoff": [
+          1
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "数",
+            "wordStartime": 90020,
+            "wordEndtime": 91380,
+            "contentStartime": 90760,
+            "contentEndtime": 91380,
+            "eStartimeHead": 90020,
+            "eEndtimeHead": 90760,
+            "eStartimeBehind": 91380,
+            "eEndtimeBehind": 91380
+          },
+          {
+            "word": "风",
+            "wordStartime": 91380,
+            "wordEndtime": 91900,
+            "contentStartime": 91380,
+            "contentEndtime": 91900,
+            "eStartimeHead": 91380,
+            "eEndtimeHead": 91380,
+            "eStartimeBehind": 91900,
+            "eEndtimeBehind": 91900
+          },
+          {
+            "word": "流",
+            "wordStartime": 91900,
+            "wordEndtime": 92180,
+            "contentStartime": 91900,
+            "contentEndtime": 92180,
+            "eStartimeHead": 91900,
+            "eEndtimeHead": 91900,
+            "eStartimeBehind": 92180,
+            "eEndtimeBehind": 92180
+          },
+          {
+            "word": "人",
+            "wordStartime": 92180,
+            "wordEndtime": 92460,
+            "contentStartime": 92180,
+            "contentEndtime": 92460,
+            "eStartimeHead": 92180,
+            "eEndtimeHead": 92180,
+            "eStartimeBehind": 92460,
+            "eEndtimeBehind": 92460
+          },
+          {
+            "word": "物",
+            "wordStartime": 92460,
+            "wordEndtime": 93300,
+            "contentStartime": 92460,
+            "contentEndtime": 93300,
+            "eStartimeHead": 92460,
+            "eEndtimeHead": 92460,
+            "eStartimeBehind": 93300,
+            "eEndtimeBehind": 93300
+          }
+        ]
+      },
+      {
+        "annotation": [],
+        "termOptions": [],
+        "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxue25.mp3",
+        "mask": [],
+        "line": 25,
+        "label": "还看今朝。",
+        "cutoff": [
+          1
+        ],
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "lableTime": [
+          {
+            "word": "还",
+            "wordStartime": 93300,
+            "wordEndtime": 94700,
+            "contentStartime": 94240,
+            "contentEndtime": 94700,
+            "eStartimeHead": 93300,
+            "eEndtimeHead": 94240,
+            "eStartimeBehind": 94700,
+            "eEndtimeBehind": 94700
+          },
+          {
+            "word": "看",
+            "wordStartime": 94700,
+            "wordEndtime": 95340,
+            "contentStartime": 94700,
+            "contentEndtime": 95340,
+            "eStartimeHead": 94700,
+            "eEndtimeHead": 94700,
+            "eStartimeBehind": 95340,
+            "eEndtimeBehind": 95340
+          },
+          {
+            "word": "今",
+            "wordStartime": 95340,
+            "wordEndtime": 97360,
+            "contentStartime": 96220,
+            "contentEndtime": 97360,
+            "eStartimeHead": 95340,
+            "eEndtimeHead": 96220,
+            "eStartimeBehind": 97360,
+            "eEndtimeBehind": 97360
+          },
+          {
+            "word": "朝",
+            "wordStartime": 97360,
+            "wordEndtime": 99580,
+            "contentStartime": 97660,
+            "contentEndtime": 98360,
+            "eStartimeHead": 97360,
+            "eEndtimeHead": 97660,
+            "eStartimeBehind": 98360,
+            "eEndtimeBehind": 99580
+          }
+        ]
+      }
+    ],
+    "title": {
+      "annotation": [
+        {
+          "place": [
+            1,
+            5
+          ],
+          "content": "选自《毛泽东诗词集》（中央文献出版社1996\n年版）。"
+        }
+      ],
+      "content": "选自《毛泽东诗词集》（中央文献出版社1996\n年版）。",
+      "name": "沁园春·雪",
+      "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxuebt.mp3",
+      "place": [
+        1,
+        5
+      ],
+      "nametime": [
+        {
+          "word": "沁",
+          "wordStartime": 0,
+          "wordEndtime": 1330,
+          "contentStartime": 880,
+          "contentEndtime": 1330,
+          "eStartimeHead": 0,
+          "eEndtimeHead": 880,
+          "eStartimeBehind": 1330,
+          "eEndtimeBehind": 1330
+        },
+        {
+          "word": "园",
+          "wordStartime": 1330,
+          "wordEndtime": 1580,
+          "contentStartime": 1330,
+          "contentEndtime": 1580,
+          "eStartimeHead": 1330,
+          "eEndtimeHead": 1330,
+          "eStartimeBehind": 1580,
+          "eEndtimeBehind": 1580
+        },
+        {
+          "word": "春",
+          "wordStartime": 1580,
+          "wordEndtime": 2140,
+          "contentStartime": 1580,
+          "contentEndtime": 2140,
+          "eStartimeHead": 1580,
+          "eEndtimeHead": 1580,
+          "eStartimeBehind": 2140,
+          "eEndtimeBehind": 2140
+        },
+        {
+          "word": "雪",
+          "wordStartime": 2140,
+          "wordEndtime": 3220,
+          "contentStartime": 2480,
+          "contentEndtime": 3220,
+          "eStartimeHead": 2140,
+          "eEndtimeHead": 2480,
+          "eStartimeBehind": 3220,
+          "eEndtimeBehind": 3220
+        }
+      ]
+    },
+    "poet": {
+      "content": "",
+      "name": "毛泽东",
+      "mp3": "/pub_cloud/110/2013/0163/qinyuanchunxuezz.mp3",
+      "place": [],
+      "nametime": [
+        {
+          "word": "毛",
+          "wordStartime": 3220,
+          "wordEndtime": 4340,
+          "contentStartime": 4020,
+          "contentEndtime": 4340,
+          "eStartimeHead": 3220,
+          "eEndtimeHead": 4020,
+          "eStartimeBehind": 4340,
+          "eEndtimeBehind": 4340
+        },
+        {
+          "word": "泽",
+          "wordStartime": 4340,
+          "wordEndtime": 4600,
+          "contentStartime": 4340,
+          "contentEndtime": 4600,
+          "eStartimeHead": 4340,
+          "eEndtimeHead": 4340,
+          "eStartimeBehind": 4600,
+          "eEndtimeBehind": 4600
+        },
+        {
+          "word": "东",
+          "wordStartime": 4600,
+          "wordEndtime": 5040,
+          "contentStartime": 4600,
+          "contentEndtime": 5040,
+          "eStartimeHead": 4600,
+          "eEndtimeHead": 4600,
+          "eStartimeBehind": 5040,
+          "eEndtimeBehind": 5040
+        }
+      ]
+    }
+  },
+  "wholeMp3": [
+    {
+      "bgurl": "",
+      "poemName": "沁园春·雪",
+      "url": "/pub_cloud/110/2013/0163/qinyuanchunxueqw.mp3"
+    }
+  ]
+}

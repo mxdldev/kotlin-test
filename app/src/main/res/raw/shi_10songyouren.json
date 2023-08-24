@@ -1,0 +1,788 @@
+{
+	"id": "0160",
+	"author": {
+		"img": "",
+		"intro": "李白（701—762），字太白，自号青莲居士，世人又称谪仙，唐代大诗人，祖籍陇西成纪（今甘肃秦安西北），出生于西域，长于蜀中绵州昌隆（今四川江油）。少年时代刻苦攻读，兼习剑术，以诗文见赏于世。25岁出蜀远游，留居安陆，娶故相许圉师孙女为妻。 数年后北游龙门，至洛阳、太原，复往东鲁，南下会稽。在漫游中，广泛结交地方官吏及著名隐士道人。玄宗天宝元年（742），李白42岁，经道士吴筠推荐，被皇帝征召赴长安，任翰林院供奉。后被疏远，乃于天宝三载离开长安，又开始漫游生活。天宝十四载安史之乱爆发，在唐皇室的内部斗争中，李白被牵连入狱，长流夜郎（今贵州正安西北）。流放途中遇赦得还。晚年流落于襄汉及江淮一带。61岁在金陵，闻李光弼统率大军出镇临淮，仍以多病之身请缨从军，半道病发而还，第二年死于当涂 （今属安徽）。李白是屈原之后伟大的浪漫主义诗人，其傲视权贵和敢于反抗的性格深受历代读者喜爱。李白相当全面地继承了中国的历史文化遗产，尤其是受庄子散文和楚辞影响最大。他还善于从民间乐府汲取营养。李白的诗作感情奔放，想象丰富，语言夸张，并惯于采用历史典故和神话传说表达感情。他最擅长乐府歌行，近体则以七绝和五律著称。今存诗共一千余首，另有赋八篇，文六十余篇。"
+	},
+	"appreciate": {
+		"content": "诗人写送别的环境景色，透着轻快明丽的气息。这里有山的青绿，有水的流转，一静一动，相映成趣。山的静默，水的远去，也暗示了离别的情景。接着诗意转为抒情，感叹今此一别，友人即万里游荡，无所归依。以后的“他”会像浮云一样飘忽不定，现在的“我”如落日依恋大地一样与友人难舍难分。不过，当离别真的来临时，也只能潇洒地挥一挥手，任凭“班马”嘶鸣。马犹如此，人何以堪？全诗至此悠然而止，意蕴深远，令人回味不尽。",
+		"title": "整体赏析"
+	},
+	"knowledge": [
+		{
+			"headline": "选择。",
+			"title": "对这首诗理解赏析错误的一项是（  ）",
+			"sort": 1,
+			"order": "1",
+			"correct": "D",
+			"img": "",
+			"answer": "",
+			"isanalysis": false,
+			"analysis": "其感情基调是浓浓的依恋不舍之情",
+			"type": "answer",
+			"option": [
+				{
+					"choice": "A",
+					"value": "“送”字统领了诗人在这首诗中的情感。"
+				},
+				{
+					"choice": "B",
+					"value": "“此地一为别，孤蓬万里征。”中的“孤蓬”比喻诗人眼中离别的友人。"
+				},
+				{
+					"choice": "C",
+					"value": "“青山横北郭，白水绕东城。”既点出告别的地点，又饱含着绵绵的离情。"
+				},
+				{
+					"choice": "D",
+					"value": "这首诗将自然美与人情美交织在一块，其感情基调是哀伤情调。"
+				}
+			],
+			"xuhao": 1
+		},
+		{
+			"headline": "填空。",
+			"title": "诗中比喻友人离家远游，行踪难定的诗句是：“_____，_____”。",
+			"sort": 2,
+			"order": "1",
+			"img": "",
+			"answer": [
+				"此地一为别",
+				"孤蓬万里征"
+			],
+			"isanalysis": false,
+			"type": "supplytwo",
+			"xuhao": 2
+		},
+		{
+			"headline": "填空。",
+			"title": "诗中借比喻的修辞手法来表达诗人与友人难舍难分之情的诗句是：“_____，_____”。",
+			"sort": 2,
+			"order": "2",
+			"img": "",
+			"answer": [
+				"浮云游子意",
+				"落日故人情"
+			],
+			"isanalysis": false,
+			"type": "supplytwo",
+			"xuhao": 3
+		}
+	],
+	"isPhonetic": false,
+	"mp4src": {
+		"bgurl": "",
+		"url": ""
+	},
+	"isorder": false,
+	"background": "",
+	"poetry": {
+		"content": "青翠的山峦横卧在城墙的北面，波光粼粼的流水围绕着城的东边。</br>在此地我们相互道别，你就像孤蓬那样随风飘荡，到万里之外远行去了。</br>浮云像游子一样行踪不定，夕阳徐徐下山，似乎有所留恋。</br>挥挥手从此分离，友人骑的那匹将要载他远行的马萧萧长鸣，似乎不忍离去。",
+		"title": "诗意浅析"
+	},
+	"poemDuring": [
+		2,
+		1,
+		6,
+		7,
+		6,
+		8
+	],
+	"poem": {
+		"content": [
+			{
+				"annotation": [],
+				"termOptions": [],
+				"mp3": "/pub_cloud/110/2013/0160/8xsongyour01.mp3",
+				"mask": [],
+				"line": 1,
+				"label": "青山横北郭，白水绕东城。",
+				"cutoff": [
+					2,
+					4,
+					10,
+					12
+				],
+				"noVoiceLabel": "",
+				"polyphone": [],
+				"lableTime": [
+					{
+						"word": "青",
+						"wordStartime": 3960,
+						"wordEndtime": 6520,
+						"contentStartime": 6140,
+						"contentEndtime": 6520,
+						"eStartimeHead": 3960,
+						"eEndtimeHead": 6140,
+						"eStartimeBehind": 6520,
+						"eEndtimeBehind": 6520
+					},
+					{
+						"word": "山",
+						"wordStartime": 6520,
+						"wordEndtime": 6940,
+						"contentStartime": 6520,
+						"contentEndtime": 6940,
+						"eStartimeHead": 6520,
+						"eEndtimeHead": 6520,
+						"eStartimeBehind": 6940,
+						"eEndtimeBehind": 6940
+					},
+					{
+						"word": "横",
+						"wordStartime": 6940,
+						"wordEndtime": 7360,
+						"contentStartime": 6940,
+						"contentEndtime": 7360,
+						"eStartimeHead": 6940,
+						"eEndtimeHead": 6940,
+						"eStartimeBehind": 7360,
+						"eEndtimeBehind": 7360
+					},
+					{
+						"word": "北",
+						"wordStartime": 7360,
+						"wordEndtime": 7620,
+						"contentStartime": 7360,
+						"contentEndtime": 7620,
+						"eStartimeHead": 7360,
+						"eEndtimeHead": 7360,
+						"eStartimeBehind": 7620,
+						"eEndtimeBehind": 7620
+					},
+					{
+						"word": "郭",
+						"wordStartime": 7620,
+						"wordEndtime": 8260,
+						"contentStartime": 7620,
+						"contentEndtime": 8260,
+						"eStartimeHead": 7620,
+						"eEndtimeHead": 7620,
+						"eStartimeBehind": 8260,
+						"eEndtimeBehind": 8260
+					},
+					{
+						"word": "白",
+						"wordStartime": 8260,
+						"wordEndtime": 9400,
+						"contentStartime": 8980,
+						"contentEndtime": 9400,
+						"eStartimeHead": 8260,
+						"eEndtimeHead": 8980,
+						"eStartimeBehind": 9400,
+						"eEndtimeBehind": 9400
+					},
+					{
+						"word": "水",
+						"wordStartime": 9400,
+						"wordEndtime": 9880,
+						"contentStartime": 9400,
+						"contentEndtime": 9880,
+						"eStartimeHead": 9400,
+						"eEndtimeHead": 9400,
+						"eStartimeBehind": 9880,
+						"eEndtimeBehind": 9880
+					},
+					{
+						"word": "绕",
+						"wordStartime": 9880,
+						"wordEndtime": 10440,
+						"contentStartime": 9880,
+						"contentEndtime": 10440,
+						"eStartimeHead": 9880,
+						"eEndtimeHead": 9880,
+						"eStartimeBehind": 10440,
+						"eEndtimeBehind": 10440
+					},
+					{
+						"word": "东",
+						"wordStartime": 10440,
+						"wordEndtime": 10700,
+						"contentStartime": 10440,
+						"contentEndtime": 10700,
+						"eStartimeHead": 10440,
+						"eEndtimeHead": 10440,
+						"eStartimeBehind": 10700,
+						"eEndtimeBehind": 10700
+					},
+					{
+						"word": "城",
+						"wordStartime": 10700,
+						"wordEndtime": 11300,
+						"contentStartime": 10700,
+						"contentEndtime": 11300,
+						"eStartimeHead": 10700,
+						"eEndtimeHead": 10700,
+						"eStartimeBehind": 11300,
+						"eEndtimeBehind": 11300
+					}
+				]
+			},
+			{
+				"annotation": [
+					{
+						"place": [
+							8
+						],
+						"option": "〔蓬〕蓬草，枯后根断，常随风飞旋。这里比喻即将孤身远行的友人。"
+					}
+				],
+				"termOptions": [
+					{
+						"wordIndex": [
+							7,
+							8
+						],
+						"option": [
+							"孤篷",
+							"孤蓬",
+							"狐蓬"
+						]
+					}
+				],
+				"mp3": "/pub_cloud/110/2013/0160/8xsongyour02.mp3",
+				"mask": [],
+				"line": 2,
+				"label": "此地一为别，孤蓬万里征。",
+				"cutoff": [
+					2,
+					5,
+					10,
+					13
+				],
+				"noVoiceLabel": "",
+				"polyphone": [],
+				"lableTime": [
+					{
+						"word": "此",
+						"wordStartime": 11300,
+						"wordEndtime": 13080,
+						"contentStartime": 12600,
+						"contentEndtime": 13080,
+						"eStartimeHead": 11300,
+						"eEndtimeHead": 12600,
+						"eStartimeBehind": 13080,
+						"eEndtimeBehind": 13080
+					},
+					{
+						"word": "地",
+						"wordStartime": 13080,
+						"wordEndtime": 13580,
+						"contentStartime": 13080,
+						"contentEndtime": 13580,
+						"eStartimeHead": 13080,
+						"eEndtimeHead": 13080,
+						"eStartimeBehind": 13580,
+						"eEndtimeBehind": 13580
+					},
+					{
+						"word": "一",
+						"wordStartime": 13580,
+						"wordEndtime": 13960,
+						"contentStartime": 13580,
+						"contentEndtime": 13960,
+						"eStartimeHead": 13580,
+						"eEndtimeHead": 13580,
+						"eStartimeBehind": 13960,
+						"eEndtimeBehind": 13960
+					},
+					{
+						"word": "为",
+						"wordStartime": 13960,
+						"wordEndtime": 14300,
+						"contentStartime": 13960,
+						"contentEndtime": 14300,
+						"eStartimeHead": 13960,
+						"eEndtimeHead": 13960,
+						"eStartimeBehind": 14300,
+						"eEndtimeBehind": 14300
+					},
+					{
+						"word": "别",
+						"wordStartime": 14300,
+						"wordEndtime": 15120,
+						"contentStartime": 14300,
+						"contentEndtime": 15120,
+						"eStartimeHead": 14300,
+						"eEndtimeHead": 14300,
+						"eStartimeBehind": 15120,
+						"eEndtimeBehind": 15120
+					},
+					{
+						"word": "孤",
+						"wordStartime": 15120,
+						"wordEndtime": 16140,
+						"contentStartime": 15720,
+						"contentEndtime": 16140,
+						"eStartimeHead": 15120,
+						"eEndtimeHead": 15720,
+						"eStartimeBehind": 16140,
+						"eEndtimeBehind": 16140
+					},
+					{
+						"word": "蓬",
+						"wordStartime": 16140,
+						"wordEndtime": 16920,
+						"contentStartime": 16140,
+						"contentEndtime": 16920,
+						"eStartimeHead": 16140,
+						"eEndtimeHead": 16140,
+						"eStartimeBehind": 16920,
+						"eEndtimeBehind": 16920
+					},
+					{
+						"word": "万",
+						"wordStartime": 16920,
+						"wordEndtime": 17840,
+						"contentStartime": 17040,
+						"contentEndtime": 17840,
+						"eStartimeHead": 16920,
+						"eEndtimeHead": 17040,
+						"eStartimeBehind": 17840,
+						"eEndtimeBehind": 17840
+					},
+					{
+						"word": "里",
+						"wordStartime": 17840,
+						"wordEndtime": 18240,
+						"contentStartime": 17840,
+						"contentEndtime": 18240,
+						"eStartimeHead": 17840,
+						"eEndtimeHead": 17840,
+						"eStartimeBehind": 18240,
+						"eEndtimeBehind": 18240
+					},
+					{
+						"word": "征",
+						"wordStartime": 18240,
+						"wordEndtime": 18720,
+						"contentStartime": 18240,
+						"contentEndtime": 18720,
+						"eStartimeHead": 18240,
+						"eEndtimeHead": 18240,
+						"eStartimeBehind": 18720,
+						"eEndtimeBehind": 18720
+					}
+				]
+			},
+			{
+				"annotation": [
+					{
+						"place": [
+							1,
+							2
+						],
+						"option": "〔浮云〕比喻游子行踪不定。"
+					},
+					{
+						"place": [
+							7,
+							8
+						],
+						"option": "〔落日〕比喻难舍之情。"
+					}
+				],
+				"termOptions": [],
+				"mp3": "/pub_cloud/110/2013/0160/8xsongyour03.mp3",
+				"mask": [],
+				"line": 3,
+				"label": "浮云游子意，落日故人情。",
+				"cutoff": [
+					2,
+					5,
+					10,
+					13
+				],
+				"noVoiceLabel": "",
+				"polyphone": [],
+				"lableTime": [
+					{
+						"word": "浮",
+						"wordStartime": 18720,
+						"wordEndtime": 20840,
+						"contentStartime": 20420,
+						"contentEndtime": 20840,
+						"eStartimeHead": 18720,
+						"eEndtimeHead": 20420,
+						"eStartimeBehind": 20840,
+						"eEndtimeBehind": 20840
+					},
+					{
+						"word": "云",
+						"wordStartime": 20840,
+						"wordEndtime": 21290,
+						"contentStartime": 20840,
+						"contentEndtime": 21290,
+						"eStartimeHead": 20840,
+						"eEndtimeHead": 20840,
+						"eStartimeBehind": 21290,
+						"eEndtimeBehind": 21290
+					},
+					{
+						"word": "游",
+						"wordStartime": 21290,
+						"wordEndtime": 21700,
+						"contentStartime": 21290,
+						"contentEndtime": 21700,
+						"eStartimeHead": 21290,
+						"eEndtimeHead": 21290,
+						"eStartimeBehind": 21700,
+						"eEndtimeBehind": 21700
+					},
+					{
+						"word": "子",
+						"wordStartime": 21700,
+						"wordEndtime": 21990,
+						"contentStartime": 21700,
+						"contentEndtime": 21990,
+						"eStartimeHead": 21700,
+						"eEndtimeHead": 21700,
+						"eStartimeBehind": 21990,
+						"eEndtimeBehind": 21990
+					},
+					{
+						"word": "意",
+						"wordStartime": 21990,
+						"wordEndtime": 22640,
+						"contentStartime": 21990,
+						"contentEndtime": 22640,
+						"eStartimeHead": 21990,
+						"eEndtimeHead": 21990,
+						"eStartimeBehind": 22640,
+						"eEndtimeBehind": 22640
+					},
+					{
+						"word": "落",
+						"wordStartime": 22640,
+						"wordEndtime": 23660,
+						"contentStartime": 23240,
+						"contentEndtime": 23660,
+						"eStartimeHead": 22640,
+						"eEndtimeHead": 23240,
+						"eStartimeBehind": 23660,
+						"eEndtimeBehind": 23660
+					},
+					{
+						"word": "日",
+						"wordStartime": 23660,
+						"wordEndtime": 24260,
+						"contentStartime": 23660,
+						"contentEndtime": 24260,
+						"eStartimeHead": 23660,
+						"eEndtimeHead": 23660,
+						"eStartimeBehind": 24260,
+						"eEndtimeBehind": 24260
+					},
+					{
+						"word": "故",
+						"wordStartime": 24260,
+						"wordEndtime": 24740,
+						"contentStartime": 24260,
+						"contentEndtime": 24740,
+						"eStartimeHead": 24260,
+						"eEndtimeHead": 24260,
+						"eStartimeBehind": 24740,
+						"eEndtimeBehind": 24740
+					},
+					{
+						"word": "人",
+						"wordStartime": 24740,
+						"wordEndtime": 25060,
+						"contentStartime": 24740,
+						"contentEndtime": 25060,
+						"eStartimeHead": 24740,
+						"eEndtimeHead": 24740,
+						"eStartimeBehind": 25060,
+						"eEndtimeBehind": 25060
+					},
+					{
+						"word": "情",
+						"wordStartime": 25060,
+						"wordEndtime": 25700,
+						"contentStartime": 25060,
+						"contentEndtime": 25700,
+						"eStartimeHead": 25060,
+						"eEndtimeHead": 25060,
+						"eStartimeBehind": 25700,
+						"eEndtimeBehind": 25700
+					}
+				]
+			},
+			{
+				"annotation": [
+					{
+						"place": [
+							3,
+							5
+						],
+						"option": "〔自兹去〕从此离去。兹，此。"
+					},
+					{
+						"place": [
+							7,
+							8
+						],
+						"option": "〔萧萧〕马嘶叫声。"
+					},
+					{
+						"place": [
+							9,
+							10
+						],
+						"option": "〔班马〕离群的马。"
+					}
+				],
+				"termOptions": [
+					{
+						"wordIndex": [
+							3,
+							5
+						],
+						"option": [
+							"至兹去",
+							"自此去",
+							"自兹去",
+							"自滋去"
+						]
+					},
+					{
+						"wordIndex": [
+							7,
+							8
+						],
+						"option": [
+							"萧萧",
+							"潇潇",
+							"筱筱"
+						]
+					},
+					{
+						"wordIndex": [
+							9,
+							10
+						],
+						"option": [
+							"斑马",
+							"班马",
+							"班码"
+						]
+					}
+				],
+				"mp3": "/pub_cloud/110/2013/0160/8xsongyour04.mp3",
+				"mask": [],
+				"line": 4,
+				"label": "挥手自兹去，萧萧班马鸣。",
+				"cutoff": [
+					2,
+					5,
+					10,
+					13
+				],
+				"noVoiceLabel": "",
+				"polyphone": [],
+				"lableTime": [
+					{
+						"word": "挥",
+						"wordStartime": 25700,
+						"wordEndtime": 27400,
+						"contentStartime": 26800,
+						"contentEndtime": 27400,
+						"eStartimeHead": 25700,
+						"eEndtimeHead": 26800,
+						"eStartimeBehind": 27400,
+						"eEndtimeBehind": 27400
+					},
+					{
+						"word": "手",
+						"wordStartime": 27400,
+						"wordEndtime": 27800,
+						"contentStartime": 27400,
+						"contentEndtime": 27800,
+						"eStartimeHead": 27400,
+						"eEndtimeHead": 27400,
+						"eStartimeBehind": 27800,
+						"eEndtimeBehind": 27800
+					},
+					{
+						"word": "自",
+						"wordStartime": 27800,
+						"wordEndtime": 28200,
+						"contentStartime": 27800,
+						"contentEndtime": 28200,
+						"eStartimeHead": 27800,
+						"eEndtimeHead": 27800,
+						"eStartimeBehind": 28200,
+						"eEndtimeBehind": 28200
+					},
+					{
+						"word": "兹",
+						"wordStartime": 28200,
+						"wordEndtime": 28460,
+						"contentStartime": 28200,
+						"contentEndtime": 28460,
+						"eStartimeHead": 28200,
+						"eEndtimeHead": 28200,
+						"eStartimeBehind": 28460,
+						"eEndtimeBehind": 28460
+					},
+					{
+						"word": "去",
+						"wordStartime": 28460,
+						"wordEndtime": 29200,
+						"contentStartime": 28460,
+						"contentEndtime": 29200,
+						"eStartimeHead": 28460,
+						"eEndtimeHead": 28460,
+						"eStartimeBehind": 29200,
+						"eEndtimeBehind": 29200
+					},
+					{
+						"word": "萧",
+						"wordStartime": 29200,
+						"wordEndtime": 30300,
+						"contentStartime": 29720,
+						"contentEndtime": 30300,
+						"eStartimeHead": 29200,
+						"eEndtimeHead": 29720,
+						"eStartimeBehind": 30300,
+						"eEndtimeBehind": 30300
+					},
+					{
+						"word": "萧",
+						"wordStartime": 30300,
+						"wordEndtime": 31160,
+						"contentStartime": 30300,
+						"contentEndtime": 31160,
+						"eStartimeHead": 30300,
+						"eEndtimeHead": 30300,
+						"eStartimeBehind": 31160,
+						"eEndtimeBehind": 31160
+					},
+					{
+						"word": "班",
+						"wordStartime": 31160,
+						"wordEndtime": 32180,
+						"contentStartime": 31460,
+						"contentEndtime": 32180,
+						"eStartimeHead": 31160,
+						"eEndtimeHead": 31460,
+						"eStartimeBehind": 32180,
+						"eEndtimeBehind": 32180
+					},
+					{
+						"word": "马",
+						"wordStartime": 32180,
+						"wordEndtime": 32820,
+						"contentStartime": 32180,
+						"contentEndtime": 32820,
+						"eStartimeHead": 32180,
+						"eEndtimeHead": 32180,
+						"eStartimeBehind": 32820,
+						"eEndtimeBehind": 32820
+					},
+					{
+						"word": "鸣",
+						"wordStartime": 32820,
+						"wordEndtime": 35100,
+						"contentStartime": 32820,
+						"contentEndtime": 33580,
+						"eStartimeHead": 32820,
+						"eEndtimeHead": 32820,
+						"eStartimeBehind": 33580,
+						"eEndtimeBehind": 35100
+					}
+				]
+			}
+		],
+		"title": {
+			"annotation": [
+				{
+					"place": [
+						1,
+						3
+					],
+					"content": "选自《李白集校注》卷十八（上海古籍出版社1980年版）。"
+				}
+			],
+			"content": "选自《李白集校注》卷十八（上海古籍出版社1980年版）。",
+			"name": "送友人",
+			"mp3": "/pub_cloud/110/2013/0160/8xsongyourbt.mp3",
+			"place": [
+				1,
+				3
+			],
+			"nametime": [
+				{
+					"word": "送",
+					"wordStartime": 0,
+					"wordEndtime": 1300,
+					"contentStartime": 780,
+					"contentEndtime": 1300,
+					"eStartimeHead": 0,
+					"eEndtimeHead": 780,
+					"eStartimeBehind": 1300,
+					"eEndtimeBehind": 1300
+				},
+				{
+					"word": "友",
+					"wordStartime": 1300,
+					"wordEndtime": 1600,
+					"contentStartime": 1300,
+					"contentEndtime": 1600,
+					"eStartimeHead": 1300,
+					"eEndtimeHead": 1300,
+					"eStartimeBehind": 1600,
+					"eEndtimeBehind": 1600
+				},
+				{
+					"word": "人",
+					"wordStartime": 1600,
+					"wordEndtime": 2140,
+					"contentStartime": 1600,
+					"contentEndtime": 2140,
+					"eStartimeHead": 1600,
+					"eEndtimeHead": 1600,
+					"eStartimeBehind": 2140,
+					"eEndtimeBehind": 2140
+				}
+			]
+		},
+		"poet": {
+			"content": "",
+			"name": "李白",
+			"mp3": "/pub_cloud/110/2013/0160/8xsongyourzz.mp3",
+			"place": [],
+			"nametime": [
+				{
+					"word": "李",
+					"wordStartime": 2140,
+					"wordEndtime": 3440,
+					"contentStartime": 3020,
+					"contentEndtime": 3440,
+					"eStartimeHead": 2140,
+					"eEndtimeHead": 3020,
+					"eStartimeBehind": 3440,
+					"eEndtimeBehind": 3440
+				},
+				{
+					"word": "白",
+					"wordStartime": 3440,
+					"wordEndtime": 3960,
+					"contentStartime": 3440,
+					"contentEndtime": 3960,
+					"eStartimeHead": 3440,
+					"eEndtimeHead": 3440,
+					"eStartimeBehind": 3960,
+					"eEndtimeBehind": 3960
+				}
+			]
+		}
+	},
+	"wholeMp3": [
+		{
+			"bgurl": "",
+			"poemName": "送友人",
+			"url": "/pub_cloud/110/2013/0160/8xsongyourqw.mp3"
+		}
+	]
+}

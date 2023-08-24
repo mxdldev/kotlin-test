@@ -1,0 +1,512 @@
+{
+    "id": "0008",
+    "author": {
+        "img": "",
+        "intro": "李白（701—762），字太白，号青莲居士，是我国唐代著名的诗人。他的诗是盛唐时期的典型代表，充满浪漫主义色彩，想象丰富而奇特，风格飘逸而豪放。他是屈原之后最具个性特色和浪漫精神的诗人，现存诗歌近千首，有“诗仙”的美名。他与杜甫齐名，合称“李杜”。"
+    },
+    "appreciate": {
+        "content": "",
+        "title": "整体赏析"
+    },
+    "knowledge": [
+        {
+            "headline": "选择。",
+            "title": "床、望、静、乡、光的韵母都是（）",
+            "sort": 1,
+            "order": "1",
+            "correct": "B",
+            "img": "",
+            "answer": "",
+            "isanalysis": false,
+            "analysis": "",
+            "type": "answer",
+            "option": [
+                {
+                    "choice": "A",
+                    "value": "前鼻音"
+                },
+                {
+                    "choice": "B",
+                    "value": "后鼻音"
+                }
+            ],
+            "xuhao": 1
+        },
+        {
+            "headline": "填空。",
+            "title": "①露从今夜白，月是故乡明。②小时不识月，呼作白云盘。③举头望明月，低头思故乡。这些诗句都和“__”有关系。",
+            "sort": 2,
+            "order": "1",
+            "img": "",
+            "answer": [
+                "月亮"
+            ],
+            "isanalysis": false,
+            "type": "supplytwo",
+            "xuhao": 2
+        },
+        {
+            "headline": "填空。",
+            "title": "爸爸在远方打工，中秋节都不能回家。月圆之夜，爸爸望着明月，思恋着故乡。这情景可以用诗中的“_____，_____”来概括。",
+            "sort": 3,
+            "order": "2",
+            "img": "",
+            "answer": [
+                "举头望明月",
+                "低头思故乡"
+            ],
+            "isanalysis": false,
+            "type": "supplytwo",
+            "xuhao": 3
+        }
+    ],
+    "isPhonetic": true,
+    "mp4src": {
+        "bgurl": "/pub_cloud/110/2013/0008/jingyesiwz.mp4",
+        "url": "/pub_cloud/110/2013/0008/jingyesi.mp4"
+    },
+    "isorder": false,
+    "background": "/pub_cloud/110/2013/0008/117429.jpg",
+    "poetry": {
+        "content": "床前洒满了明亮的月光，看起来像是地上的秋霜。抬头看看天上的明月，低头便思念起遥远的家乡。",
+        "title": "诗意浅析"
+    },
+    "poemDuring": [
+        2,
+        2,
+        3,
+        3,
+        2,
+        3
+    ],
+    "poem": {
+        "content": [
+            {
+                "annotation": [],
+                "termOptions": [
+                    {
+                        "wordIndex": [
+                            1,
+                            2
+                        ],
+                        "option": [
+                            "床前",
+                            "窗前",
+                            "桌前"
+                        ]
+                    }
+                ],
+                "mp3": "/pub_cloud/110/2013/0008/jingyesi1.mp3",
+                "mask": [],
+                "line": 1,
+                "label": "床前明月光，",
+                "cutoff": [
+                    2,
+                    5
+                ],
+                "noVoiceLabel": "",
+                "polyphone": [],
+                "lableTime": [
+                    {
+                        "word": "床",
+                        "wordStartime": 6700,
+                        "wordEndtime": 9460,
+                        "contentStartime": 8980,
+                        "contentEndtime": 9460,
+                        "eStartimeHead": 6700,
+                        "eEndtimeHead": 8980,
+                        "eStartimeBehind": 9460,
+                        "eEndtimeBehind": 9460
+                    },
+                    {
+                        "word": "前",
+                        "wordStartime": 9460,
+                        "wordEndtime": 10240,
+                        "contentStartime": 9460,
+                        "contentEndtime": 10240,
+                        "eStartimeHead": 9460,
+                        "eEndtimeHead": 9460,
+                        "eStartimeBehind": 10240,
+                        "eEndtimeBehind": 10240
+                    },
+                    {
+                        "word": "明",
+                        "wordStartime": 10240,
+                        "wordEndtime": 10910,
+                        "contentStartime": 10280,
+                        "contentEndtime": 10910,
+                        "eStartimeHead": 10240,
+                        "eEndtimeHead": 10280,
+                        "eStartimeBehind": 10910,
+                        "eEndtimeBehind": 10910
+                    },
+                    {
+                        "word": "月",
+                        "wordStartime": 10910,
+                        "wordEndtime": 11300,
+                        "contentStartime": 10910,
+                        "contentEndtime": 11300,
+                        "eStartimeHead": 10910,
+                        "eEndtimeHead": 10910,
+                        "eStartimeBehind": 11300,
+                        "eEndtimeBehind": 11300
+                    },
+                    {
+                        "word": "光",
+                        "wordStartime": 11300,
+                        "wordEndtime": 11760,
+                        "contentStartime": 11300,
+                        "contentEndtime": 11760,
+                        "eStartimeHead": 11300,
+                        "eEndtimeHead": 11300,
+                        "eStartimeBehind": 11760,
+                        "eEndtimeBehind": 11760
+                    }
+                ]
+            },
+            {
+                "annotation": [],
+                "termOptions": [
+                    {
+                        "wordIndex": [
+                            1,
+                            2
+                        ],
+                        "option": [
+                            "疑是",
+                            "凝是",
+                            "颖是"
+                        ]
+                    }
+                ],
+                "mp3": "/pub_cloud/110/2013/0008/jingyesi2.mp3",
+                "mask": [],
+                "line": 2,
+                "label": "疑是地上霜。",
+                "cutoff": [
+                    2,
+                    5
+                ],
+                "noVoiceLabel": "",
+                "polyphone": [
+                    {
+                        "value": "dytype1",
+                        "key": 3
+                    }
+                ],
+                "lableTime": [
+                    {
+                        "word": "疑",
+                        "wordStartime": 11760,
+                        "wordEndtime": 13320,
+                        "contentStartime": 12920,
+                        "contentEndtime": 13320,
+                        "eStartimeHead": 11760,
+                        "eEndtimeHead": 12920,
+                        "eStartimeBehind": 13320,
+                        "eEndtimeBehind": 13320
+                    },
+                    {
+                        "word": "是",
+                        "wordStartime": 13320,
+                        "wordEndtime": 14000,
+                        "contentStartime": 13320,
+                        "contentEndtime": 14000,
+                        "eStartimeHead": 13320,
+                        "eEndtimeHead": 13320,
+                        "eStartimeBehind": 14000,
+                        "eEndtimeBehind": 14000
+                    },
+                    {
+                        "word": "地",
+                        "wordStartime": 14000,
+                        "wordEndtime": 14920,
+                        "contentStartime": 14300,
+                        "contentEndtime": 14920,
+                        "eStartimeHead": 14000,
+                        "eEndtimeHead": 14300,
+                        "eStartimeBehind": 14920,
+                        "eEndtimeBehind": 14920
+                    },
+                    {
+                        "word": "上",
+                        "wordStartime": 14920,
+                        "wordEndtime": 15380,
+                        "contentStartime": 14920,
+                        "contentEndtime": 15380,
+                        "eStartimeHead": 14920,
+                        "eEndtimeHead": 14920,
+                        "eStartimeBehind": 15380,
+                        "eEndtimeBehind": 15380
+                    },
+                    {
+                        "word": "霜",
+                        "wordStartime": 15380,
+                        "wordEndtime": 15900,
+                        "contentStartime": 15380,
+                        "contentEndtime": 15900,
+                        "eStartimeHead": 15380,
+                        "eEndtimeHead": 15380,
+                        "eStartimeBehind": 15900,
+                        "eEndtimeBehind": 15900
+                    }
+                ]
+            },
+            {
+                "annotation": [],
+                "termOptions": [
+                    {
+                        "wordIndex": [
+                            1,
+                            2
+                        ],
+                        "option": [
+                            "举头",
+                            "抬头",
+                            "仰头"
+                        ]
+                    }
+                ],
+                "mp3": "/pub_cloud/110/2013/0008/jingyesi3.mp3",
+                "mask": [],
+                "line": 3,
+                "label": "举头望明月，",
+                "cutoff": [
+                    2,
+                    4
+                ],
+                "noVoiceLabel": "",
+                "polyphone": [],
+                "lableTime": [
+                    {
+                        "word": "举",
+                        "wordStartime": 15900,
+                        "wordEndtime": 17500,
+                        "contentStartime": 17080,
+                        "contentEndtime": 17500,
+                        "eStartimeHead": 15900,
+                        "eEndtimeHead": 17080,
+                        "eStartimeBehind": 17500,
+                        "eEndtimeBehind": 17500
+                    },
+                    {
+                        "word": "头",
+                        "wordStartime": 17500,
+                        "wordEndtime": 18200,
+                        "contentStartime": 17500,
+                        "contentEndtime": 18200,
+                        "eStartimeHead": 17500,
+                        "eEndtimeHead": 17500,
+                        "eStartimeBehind": 18200,
+                        "eEndtimeBehind": 18200
+                    },
+                    {
+                        "word": "望",
+                        "wordStartime": 18200,
+                        "wordEndtime": 18570,
+                        "contentStartime": 18230,
+                        "contentEndtime": 18570,
+                        "eStartimeHead": 18200,
+                        "eEndtimeHead": 18230,
+                        "eStartimeBehind": 18570,
+                        "eEndtimeBehind": 18570
+                    },
+                    {
+                        "word": "明",
+                        "wordStartime": 18570,
+                        "wordEndtime": 19030,
+                        "contentStartime": 18570,
+                        "contentEndtime": 19030,
+                        "eStartimeHead": 18570,
+                        "eEndtimeHead": 18570,
+                        "eStartimeBehind": 19030,
+                        "eEndtimeBehind": 19030
+                    },
+                    {
+                        "word": "月",
+                        "wordStartime": 19030,
+                        "wordEndtime": 19680,
+                        "contentStartime": 19030,
+                        "contentEndtime": 19680,
+                        "eStartimeHead": 19030,
+                        "eEndtimeHead": 19030,
+                        "eStartimeBehind": 19680,
+                        "eEndtimeBehind": 19680
+                    }
+                ]
+            },
+            {
+                "annotation": [],
+                "termOptions": [
+                    {
+                        "wordIndex": [
+                            4,
+                            5
+                        ],
+                        "option": [
+                            "故乡",
+                            "故土",
+                            "乡土"
+                        ]
+                    }
+                ],
+                "mp3": "/pub_cloud/110/2013/0008/jingyesi4.mp3",
+                "mask": [],
+                "line": 4,
+                "label": "低头思故乡。",
+                "cutoff": [
+                    2,
+                    4
+                ],
+                "noVoiceLabel": "",
+                "polyphone": [],
+                "lableTime": [
+                    {
+                        "word": "低",
+                        "wordStartime": 19680,
+                        "wordEndtime": 20860,
+                        "contentStartime": 20460,
+                        "contentEndtime": 20860,
+                        "eStartimeHead": 19680,
+                        "eEndtimeHead": 20460,
+                        "eStartimeBehind": 20860,
+                        "eEndtimeBehind": 20860
+                    },
+                    {
+                        "word": "头",
+                        "wordStartime": 20860,
+                        "wordEndtime": 21500,
+                        "contentStartime": 20860,
+                        "contentEndtime": 21500,
+                        "eStartimeHead": 20860,
+                        "eEndtimeHead": 20860,
+                        "eStartimeBehind": 21500,
+                        "eEndtimeBehind": 21500
+                    },
+                    {
+                        "word": "思",
+                        "wordStartime": 21500,
+                        "wordEndtime": 22580,
+                        "contentStartime": 21880,
+                        "contentEndtime": 22580,
+                        "eStartimeHead": 21500,
+                        "eEndtimeHead": 21880,
+                        "eStartimeBehind": 22580,
+                        "eEndtimeBehind": 22580
+                    },
+                    {
+                        "word": "故",
+                        "wordStartime": 22580,
+                        "wordEndtime": 23060,
+                        "contentStartime": 22580,
+                        "contentEndtime": 23060,
+                        "eStartimeHead": 22580,
+                        "eEndtimeHead": 22580,
+                        "eStartimeBehind": 23060,
+                        "eEndtimeBehind": 23060
+                    },
+                    {
+                        "word": "乡",
+                        "wordStartime": 23060,
+                        "wordEndtime": 24100,
+                        "contentStartime": 23060,
+                        "contentEndtime": 23640,
+                        "eStartimeHead": 23060,
+                        "eEndtimeHead": 23060,
+                        "eStartimeBehind": 23640,
+                        "eEndtimeBehind": 24100
+                    }
+                ]
+            }
+        ],
+        "title": {
+            "content": "",
+            "name": "静夜思",
+            "mp3": "/pub_cloud/110/2013/0008/jingyesibt.mp3",
+            "place": [],
+            "nametime": [
+                {
+                    "word": "静",
+                    "wordStartime": 0,
+                    "wordEndtime": 2560,
+                    "contentStartime": 2120,
+                    "contentEndtime": 2560,
+                    "eStartimeHead": 0,
+                    "eEndtimeHead": 2120,
+                    "eStartimeBehind": 2560,
+                    "eEndtimeBehind": 2560
+                },
+                {
+                    "word": "夜",
+                    "wordStartime": 2560,
+                    "wordEndtime": 2900,
+                    "contentStartime": 2560,
+                    "contentEndtime": 2900,
+                    "eStartimeHead": 2560,
+                    "eEndtimeHead": 2560,
+                    "eStartimeBehind": 2900,
+                    "eEndtimeBehind": 2900
+                },
+                {
+                    "word": "思",
+                    "wordStartime": 2900,
+                    "wordEndtime": 3400,
+                    "contentStartime": 2900,
+                    "contentEndtime": 3400,
+                    "eStartimeHead": 2900,
+                    "eEndtimeHead": 2900,
+                    "eStartimeBehind": 3400,
+                    "eEndtimeBehind": 3400
+                }
+            ]
+        },
+        "poet": {
+            "content": "",
+            "name": "[唐]李白",
+            "mp3": "/pub_cloud/110/2013/0008/jingyesizz.mp3",
+            "place": [],
+            "nametime": [
+                {
+                    "word": "唐",
+                    "wordStartime": 3400,
+                    "wordEndtime": 5360,
+                    "contentStartime": 4760,
+                    "contentEndtime": 5360,
+                    "eStartimeHead": 3400,
+                    "eEndtimeHead": 4760,
+                    "eStartimeBehind": 5360,
+                    "eEndtimeBehind": 5360
+                },
+                {
+                    "word": "李",
+                    "wordStartime": 5360,
+                    "wordEndtime": 6180,
+                    "contentStartime": 5720,
+                    "contentEndtime": 6180,
+                    "eStartimeHead": 5360,
+                    "eEndtimeHead": 5720,
+                    "eStartimeBehind": 6180,
+                    "eEndtimeBehind": 6180
+                },
+                {
+                    "word": "白",
+                    "wordStartime": 6180,
+                    "wordEndtime": 6700,
+                    "contentStartime": 6180,
+                    "contentEndtime": 6700,
+                    "eStartimeHead": 6180,
+                    "eEndtimeHead": 6180,
+                    "eStartimeBehind": 6700,
+                    "eEndtimeBehind": 6700
+                }
+            ]
+        }
+    },
+    "wholeMp3": [
+        {
+            "bgurl": "",
+            "poemName": "静夜思",
+            "url": "/pub_cloud/110/2013/0008/jingyesiqw.mp3"
+        }
+    ]
+}

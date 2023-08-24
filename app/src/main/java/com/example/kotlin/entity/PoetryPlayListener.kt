@@ -8,7 +8,7 @@ package com.example.kotlin.entity
  * Update:     <br>
  */
 interface PoetryPlayListener {
-    fun onStart(postion:Int)
+    fun onStart(postion:Int,poetryLine: PoetryLine)
     fun onProcess(poetryLine: PoetryLine)
     fun onFinish(postion:Int)
 

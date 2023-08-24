@@ -7,4 +7,4 @@ package com.example.kotlin.entity
  * Version:     V1.0.0<br>
  * Update:     <br>
  */
-data class PoetryLine(val type:Int,val position:Int,val totalTime:Long,var process:Long,val mp3url:String)
+data class PoetryLine(val type:Int,val position:Int,val totalTime:Long,var process:Long,val mp3url:String,val delayTime:List<Int>)
