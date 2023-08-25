@@ -31,13 +31,11 @@ class PoetryActivity : AppCompatActivity() {
         var titleListTime = ArrayList<Int>()
         data?.poem?.title?.nametime?.forEachIndexed { index, wordTime ->
             titleTotalTime += (wordTime.contentEndtime - wordTime.contentStartime)
-            if (index != 0) {
+            if(index != 0){
                 titleListTime.add(wordTime.eEndtimeHead - wordTime.eStartimeHead)
             }
             val contentTime = wordTime.contentEndtime - wordTime.contentStartime
-            repeat(ceil(contentTime / 100f).toInt()) {
-                titleListTime.add(100)
-            }
+            titleListTime.addAll(divideAndPrint(contentTime, 100))
             titleListTime.add(wordTime.eEndtimeBehind - wordTime.eStartimeBehind)
         }
         listPoetryLine.add(PoetryLine(PoetryPlayType.TITLE.type, 0, titleTotalTime, 0, "http://192.168.186.20${data?.poem?.title?.mp3}", titleListTime))
@@ -45,28 +43,28 @@ class PoetryActivity : AppCompatActivity() {
         var authorListTime = ArrayList<Int>()
         data?.poem?.poet?.nametime?.forEachIndexed { index, wordTime ->
             authorTotalTime += (wordTime.contentEndtime - wordTime.contentStartime)
-            authorListTime.add(wordTime.eEndtimeHead - wordTime.eStartimeHead)
-            val contentTime = wordTime.contentEndtime - wordTime.contentStartime
-            repeat(ceil(contentTime / 100f).toInt()) {
-                authorListTime.add(100)
+            if(index != 0){
+                authorListTime.add(wordTime.eEndtimeHead - wordTime.eStartimeHead)
             }
+            val contentTime = wordTime.contentEndtime - wordTime.contentStartime
+            authorListTime.addAll(divideAndPrint(contentTime, 100))
             authorListTime.add(wordTime.eEndtimeBehind - wordTime.eStartimeBehind)
         }
-        listPoetryLine.add(PoetryLine(PoetryPlayType.AUTHOR.type, 0, authorTotalTime, 0, "http://192.168.186.20${data?.poem?.poet?.mp3}",authorListTime))
+        listPoetryLine.add(PoetryLine(PoetryPlayType.AUTHOR.type, 0, authorTotalTime, 0, "http://192.168.186.20${data?.poem?.poet?.mp3}", authorListTime))
 
         data?.poem?.content?.forEachIndexed { index, lineTime ->
             var contentTotalTime = 0L
             var contentListTime = ArrayList<Int>()
             lineTime?.lableTime?.forEachIndexed { index, wordTime ->
-                contentListTime.add(wordTime.eEndtimeHead - wordTime.eStartimeHead)
-                val contentTime = wordTime.contentEndtime - wordTime.contentStartime
-                repeat(ceil(contentTime / 100f).toInt()) {
-                    contentListTime.add(100)
+                if(index != 0){
+                    contentListTime.add(wordTime.eEndtimeHead - wordTime.eStartimeHead)
                 }
+                val contentTime = wordTime.contentEndtime - wordTime.contentStartime
+                contentListTime.addAll(divideAndPrint(contentTime, 100))
                 contentListTime.add(wordTime.eEndtimeBehind - wordTime.eStartimeBehind)
                 contentTotalTime += (wordTime.contentEndtime - wordTime.contentStartime)
             }
-            listPoetryLine.add(PoetryLine(PoetryPlayType.MAINBODY.type, index, contentTotalTime, 0, "http://192.168.186.20${lineTime?.mp3}",contentListTime))
+            listPoetryLine.add(PoetryLine(PoetryPlayType.MAINBODY.type, index, contentTotalTime, 0, "http://192.168.186.20${lineTime?.mp3}", contentListTime))
         }
         mPoetryTextView = findViewById(R.id.view_poetry)
         findViewById<Button>(R.id.btn_play).setOnClickListener {
@@ -89,6 +87,17 @@ class PoetryActivity : AppCompatActivity() {
             }
             PoetryPlayerManager.startPlay(listPoetryLine, titleListTime)
         }
+    }
+
+    fun divideAndPrint(number: Int, divisor: Int): List<Int> {
+        var list = ArrayList<Int>()
+        var remainder = number
+        while (remainder >= divisor) {
+            list.add(divisor)
+            remainder -= divisor
+        }
+        list.add(remainder)
+        return list
     }
 
     fun parseData(): Poetry? {

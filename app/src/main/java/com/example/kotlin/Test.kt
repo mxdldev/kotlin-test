@@ -13,19 +13,14 @@ import kotlin.math.ceil
 class Test {}
 
 fun main(args: Array<String>) {
-    repeat(ceil(440/100f).toInt()){
-        //println("ok")
+    divideAndPrint(350, 100)
+}
+
+fun divideAndPrint(number: Int, divisor: Int) {
+    var remainder = number
+    while (remainder >= divisor) {
+        println(divisor)
+        remainder -= divisor
     }
-    var queue = LinkedList<Int>()
-    queue.add(1)
-    queue.add(2)
-    queue.add(3)
-    queue.add(4)
-    queue.add(5)
-    println(queue.poll())
-    println(queue.poll())
-    println(queue.poll())
-    println(queue.poll())
-    println(queue.poll())
-    println(queue.poll())
+    println(remainder)
 }
