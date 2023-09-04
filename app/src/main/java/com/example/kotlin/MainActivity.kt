@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btn_poetry).setOnClickListener {
             startActivity(Intent(this, PoetryActivity::class.java))
         }
-
+        startActivity(Intent(this, ScrollViewActivity::class.java))
     }
 
     private fun showPopup(anchorView: View, explanation: String) {

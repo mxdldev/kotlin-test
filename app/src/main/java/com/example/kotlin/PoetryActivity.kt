@@ -99,7 +99,6 @@ class PoetryActivity : AppCompatActivity() {
         list.add(remainder)
         return list
     }
-
     fun parseData(): Poetry? {
         val resources: Resources = getResources()
         return try {
