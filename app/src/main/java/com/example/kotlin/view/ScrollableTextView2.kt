@@ -19,9 +19,12 @@ import android.view.VelocityTracker
 import android.view.View
 import android.widget.OverScroller
 import androidx.core.view.ViewCompat
-import com.example.kotlin.util.PoetryUntil
 
-class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0) : View(context, attrs, defStyleAttr) {
+class ScrollableTextView2 @JvmOverloads constructor(
+    context: Context,
+    attrs: AttributeSet? = null,
+    defStyleAttr: Int = 0
+) : View(context, attrs, defStyleAttr) {
 
     private var textList: List<String>? = null
     private val textPaint: Paint = Paint().apply {
@@ -48,7 +51,7 @@ class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: Attr
 
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
-        Log.v("MYTAG", "onDraw")
+        Log.v("MYTAG","onDraw")
         textList?.let {
             var startY = 0
 
@@ -63,6 +66,7 @@ class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: Attr
     override fun onTouchEvent(event: MotionEvent): Boolean {
         when (event.action) {
             MotionEvent.ACTION_DOWN -> {
+                Log.v("MYTAG","onTouchEvent ACTION_DOWN")
                 scrolling = true
                 touchY = event.y
                 scroller.abortAnimation()
@@ -73,8 +77,9 @@ class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: Attr
                 }
             }
             MotionEvent.ACTION_MOVE -> {
+                Log.v("MYTAG","onTouchEvent ACTION_MOVE")
                 if (scrolling) {
-                    val deltaY = touchY - event.y // 计算滑动距离
+                    val deltaY = touchY - event.y // 修复方向
                     touchY = event.y
                     scrollY1 += deltaY.toInt()
 
@@ -84,12 +89,13 @@ class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: Attr
                     } else if (scrollY1 > maxScrollY()) {
                         scrollY1 = maxScrollY()
                     }
-
+                    Log.v("MYTAG","onTouchEvent ACTION_MOVE scrollY1:${scrollY1}")
                     invalidate()
                     velocityTracker?.addMovement(event)
                 }
             }
             MotionEvent.ACTION_UP -> {
+                Log.v("MYTAG","onTouchEvent ACTION_UP")
                 scrolling = false
 
                 // 使用Scroller来实现弹性滑动
@@ -97,64 +103,28 @@ class ScrollableTextView @JvmOverloads constructor(context: Context, attrs: Attr
 
                 // 获取垂直方向的速度
                 velocityTracker?.computeCurrentVelocity(1000)
-                val velocityY = velocityTracker?.yVelocity ?: 0f
-
-                // 速度大于等于1000，处理弹性滑动逻辑
-                if (Math.abs(velocityY) >= 2000) {
-                    val maxVelocityY = 40000f // 设置最大速度
-
-                    // 根据速度大小调整滚动距离
-                    val scrollDistance = (velocityY / maxVelocityY) * maxScrollY()
-
-                    val duration = 500L // 弹性滑动的持续时间
-
-                    // 计算距离顶部和底部的距离
-                    val distanceToTop = scrollY1
-                    val distanceToBottom = maxScrollY() - scrollY1
-
-                    // 如果速度足够快且距离边界不足100像素，滚动到顶部或底部
-                    if (Math.abs(velocityY) >= 2000 && (distanceToTop < PoetryUntil.dpToPx(context,80f) || distanceToBottom < PoetryUntil.dpToPx(context,80f))) {
-                        if (velocityY > 0) {
-                            scroller.startScroll(0, scrollY1, 0, -distanceToTop, duration.toInt())
-                        } else {
-                            scroller.startScroll(0, scrollY1, 0, distanceToBottom, duration.toInt())
-                        }
-                    } else {
-                        // 否则，根据速度大小调整滚动距离
-                        var adjustedScrollDistance = scrollDistance
-
-                        // 修正滚动距离，确保不超出边界
-                        if (scrollY1 + scrollDistance < 0) {
-                            adjustedScrollDistance = -scrollY1.toFloat()
-                        } else if (scrollY1 + scrollDistance > maxScrollY()) {
-                            adjustedScrollDistance = (maxScrollY() - scrollY1).toFloat()
-                        }
-
-                        // 使用Scroller来实现弹性滑动
-                        scroller.startScroll(0, scrollY1, 0, -adjustedScrollDistance.toInt(), duration.toInt())
-                    }
-
-                    ViewCompat.postInvalidateOnAnimation(this)
+                val velocityY = velocityTracker?.yVelocity?.toInt() ?: 0
+                Log.v("MYTAG","velocityY ${velocityY}")
+                if (Math.abs(velocityY) >= 1000) { // 根据需要调整速度阈值
+                    // 速度过快，直接滑到最顶部或最底部
+                    scrollY1 = if (velocityY > 0) 0 else maxScrollY()
+                    Log.v("MYTAG","onTouch ACTION_UP speed fast scrollY1:${scrollY1}")
                 } else {
-                    // 速度小于1000，根据需要进行其他逻辑处理
-                    // 在这里添加你的其他逻辑
+                    // 使用Scroller来实现弹性滑动
                     val delayY = finalY - scrollY1
                     scroller.startScroll(0, scrollY1, 0, delayY, 500) // 调整滑动时间和曲线
                     Log.v("MYTAG","onTouch ACTION_UP speed slow scrollY1:${scrollY1},delayY${delayY}")
                     ViewCompat.postInvalidateOnAnimation(this)
                 }
 
-                velocityTracker = null
+                //velocityTracker?.recycle()
             }
         }
         return true
     }
 
-
-
-
     override fun computeScroll() {
-        Log.v("MYTAG", "computeScroll")
+        Log.v("MYTAG","computeScroll")
         if (scroller.computeScrollOffset()) {
             scrollY1 = scroller.currY
             invalidate()
