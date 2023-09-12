@@ -1,0 +1,976 @@
+{
+	"appreciate": {
+		"content": "《渔家傲》大约是李清照南渡之后的作品。一般说来，李清照南渡后的词作大多沉痛愁苦，而这一首词却充满了浪漫幻想的气息。李清照后半生遭遇国破家亡的变故，只身漂泊江南，过着孤寂困窘的生活，她是个有才华有理想的词人，不甘忍受这样的现实，却又无能为力，只好借助想象去营造个人理想的世界。这首词正是通过记梦，展示一个神奇的境界，抒发内心的苦闷，也表现自己不为苦难所磨灭的追求与向往。",
+		"title": "整体赏析"
+	},
+	"author": {
+		"img": "",
+		"intro": "李清照（1084—约1155），宋代女词人。号易安居士，齐州章丘（今属山东）人。父李格非为当时著名学者，夫赵明诚为金石考据家。早期生活优裕，与明诚共同致力于金石书画的搜集整理。金兵入据中原，流寓南方，明诚病死，境遇孤苦。所作词，前期多写其悠闲生活，后期多慨叹身世，情调感伤，有的也流露出对中原的怀念。善用白描手法，语言清丽。论词强调协律，崇尚典雅、情致，提出词“别是一家”之说，反对以作诗文之法作词。并能诗，留存不多，感时咏史，情辞慷慨，与其词风不同。有《易安居士文集》《易安词》，已散佚。后人有《漱玉词》辑本。"
+	},
+	"background": "",
+	"id": "0145",
+	"isPhonetic": false,
+	"isorder": false,
+	"mp4src": {
+		"bgurl": "",
+		"url": ""
+	},
+	"poem": {
+		"content": [
+			{
+				"annotation": [
+					{
+						"option": "〔云涛〕如波涛翻滚的云。一说指海涛。",
+						"place": [
+							3,
+							4
+						]
+					},
+					{
+						"option": "〔星河欲转〕银河流转，指天快亮了。星河，银河。",
+						"place": [
+							9,
+							12
+						]
+					},
+					{
+						"option": "〔帝所〕天帝居住的地方。",
+						"place": [
+							22,
+							23
+						]
+					},
+					{
+						"option": "〔殷勤〕情意恳切。",
+						"place": [
+							29,
+							30
+						]
+					},
+					{
+						"option": "〔报〕回答。",
+						"place": [
+							40
+						]
+					},
+					{
+						"option": "〔嗟〕叹息，慨叹。",
+						"place": [
+							43
+						]
+					},
+					{
+						"option": "〔谩（màn）〕同“漫”，空、徒然。",
+						"place": [
+							49
+						]
+					},
+					{
+						"option": "〔九万里风鹏正举〕（我要）像大鹏鸟那样乘风高飞。举，高飞。《庄子·逍遥游》：“鹏之徙于南冥也，水击三千里，抟扶摇而上者九万里。”",
+						"place": [
+							55,
+							61
+						]
+					},
+					{
+						"option": "〔蓬舟〕如飞蓬般轻快的船。",
+						"place": [
+							67,
+							68
+						]
+					},
+					{
+						"option": "〔三山〕神话中的蓬莱、方丈、瀛洲三座海上仙山。",
+						"place": [
+							71,
+							72
+						]
+					}
+				],
+				"cutoff": [
+					2,
+					5,
+					14,
+					23,
+					36,
+					45,
+					48,
+					57,
+					66,
+					77,
+					80
+				],
+				"label": "天接云涛连晓雾，星河欲转千帆舞。仿佛梦魂归帝所，闻天语，殷勤问我归何处。  我报路长嗟日暮，学诗谩有惊人句。九万里风鹏正举。风休住，蓬舟吹取三山去！",
+				"lableTime": [
+					{
+						"contentEndtime": 7180,
+						"contentStartime": 6640,
+						"eEndtimeBehind": 7180,
+						"eEndtimeHead": 6640,
+						"eStartimeBehind": 7180,
+						"eStartimeHead": 4040,
+						"word": "天",
+						"wordEndtime": 7180,
+						"wordStartime": 4040
+					},
+					{
+						"contentEndtime": 7460,
+						"contentStartime": 7180,
+						"eEndtimeBehind": 7460,
+						"eEndtimeHead": 7180,
+						"eStartimeBehind": 7460,
+						"eStartimeHead": 7180,
+						"word": "接",
+						"wordEndtime": 7460,
+						"wordStartime": 7180
+					},
+					{
+						"contentEndtime": 7780,
+						"contentStartime": 7460,
+						"eEndtimeBehind": 7780,
+						"eEndtimeHead": 7460,
+						"eStartimeBehind": 7780,
+						"eStartimeHead": 7460,
+						"word": "云",
+						"wordEndtime": 7780,
+						"wordStartime": 7460
+					},
+					{
+						"contentEndtime": 8400,
+						"contentStartime": 7780,
+						"eEndtimeBehind": 8400,
+						"eEndtimeHead": 7780,
+						"eStartimeBehind": 8400,
+						"eStartimeHead": 7780,
+						"word": "涛",
+						"wordEndtime": 8400,
+						"wordStartime": 7780
+					},
+					{
+						"contentEndtime": 9020,
+						"contentStartime": 8540,
+						"eEndtimeBehind": 9020,
+						"eEndtimeHead": 8540,
+						"eStartimeBehind": 9020,
+						"eStartimeHead": 8400,
+						"word": "连",
+						"wordEndtime": 9020,
+						"wordStartime": 8400
+					},
+					{
+						"contentEndtime": 9520,
+						"contentStartime": 9020,
+						"eEndtimeBehind": 9520,
+						"eEndtimeHead": 9020,
+						"eStartimeBehind": 9520,
+						"eStartimeHead": 9020,
+						"word": "晓",
+						"wordEndtime": 9520,
+						"wordStartime": 9020
+					},
+					{
+						"contentEndtime": 10280,
+						"contentStartime": 9520,
+						"eEndtimeBehind": 10280,
+						"eEndtimeHead": 9520,
+						"eStartimeBehind": 10280,
+						"eStartimeHead": 9520,
+						"word": "雾",
+						"wordEndtime": 10280,
+						"wordStartime": 9520
+					},
+					{
+						"contentEndtime": 11220,
+						"contentStartime": 10680,
+						"eEndtimeBehind": 11220,
+						"eEndtimeHead": 10680,
+						"eStartimeBehind": 11220,
+						"eStartimeHead": 10280,
+						"word": "星",
+						"wordEndtime": 11220,
+						"wordStartime": 10280
+					},
+					{
+						"contentEndtime": 11580,
+						"contentStartime": 11220,
+						"eEndtimeBehind": 11580,
+						"eEndtimeHead": 11220,
+						"eStartimeBehind": 11580,
+						"eStartimeHead": 11220,
+						"word": "河",
+						"wordEndtime": 11580,
+						"wordStartime": 11220
+					},
+					{
+						"contentEndtime": 11860,
+						"contentStartime": 11580,
+						"eEndtimeBehind": 11860,
+						"eEndtimeHead": 11580,
+						"eStartimeBehind": 11860,
+						"eStartimeHead": 11580,
+						"word": "欲",
+						"wordEndtime": 11860,
+						"wordStartime": 11580
+					},
+					{
+						"contentEndtime": 12420,
+						"contentStartime": 11860,
+						"eEndtimeBehind": 12420,
+						"eEndtimeHead": 11860,
+						"eStartimeBehind": 12420,
+						"eStartimeHead": 11860,
+						"word": "转",
+						"wordEndtime": 12420,
+						"wordStartime": 11860
+					},
+					{
+						"contentEndtime": 13320,
+						"contentStartime": 12580,
+						"eEndtimeBehind": 13320,
+						"eEndtimeHead": 12580,
+						"eStartimeBehind": 13320,
+						"eStartimeHead": 12420,
+						"word": "千",
+						"wordEndtime": 13320,
+						"wordStartime": 12420
+					},
+					{
+						"contentEndtime": 13770,
+						"contentStartime": 13320,
+						"eEndtimeBehind": 13770,
+						"eEndtimeHead": 13320,
+						"eStartimeBehind": 13770,
+						"eStartimeHead": 13320,
+						"word": "帆",
+						"wordEndtime": 13770,
+						"wordStartime": 13320
+					},
+					{
+						"contentEndtime": 14620,
+						"contentStartime": 13770,
+						"eEndtimeBehind": 14620,
+						"eEndtimeHead": 13770,
+						"eStartimeBehind": 14620,
+						"eStartimeHead": 13770,
+						"word": "舞",
+						"wordEndtime": 14620,
+						"wordStartime": 13770
+					},
+					{
+						"contentEndtime": 16100,
+						"contentStartime": 15720,
+						"eEndtimeBehind": 16100,
+						"eEndtimeHead": 15720,
+						"eStartimeBehind": 16100,
+						"eStartimeHead": 14620,
+						"word": "仿",
+						"wordEndtime": 16100,
+						"wordStartime": 14620
+					},
+					{
+						"contentEndtime": 16330,
+						"contentStartime": 16100,
+						"eEndtimeBehind": 16330,
+						"eEndtimeHead": 16100,
+						"eStartimeBehind": 16330,
+						"eStartimeHead": 16100,
+						"word": "佛",
+						"wordEndtime": 16330,
+						"wordStartime": 16100
+					},
+					{
+						"contentEndtime": 16600,
+						"contentStartime": 16330,
+						"eEndtimeBehind": 16600,
+						"eEndtimeHead": 16330,
+						"eStartimeBehind": 16600,
+						"eStartimeHead": 16330,
+						"word": "梦",
+						"wordEndtime": 16600,
+						"wordStartime": 16330
+					},
+					{
+						"contentEndtime": 17140,
+						"contentStartime": 16600,
+						"eEndtimeBehind": 17140,
+						"eEndtimeHead": 16600,
+						"eStartimeBehind": 17140,
+						"eStartimeHead": 16600,
+						"word": "魂",
+						"wordEndtime": 17140,
+						"wordStartime": 16600
+					},
+					{
+						"contentEndtime": 17640,
+						"contentStartime": 17140,
+						"eEndtimeBehind": 17640,
+						"eEndtimeHead": 17140,
+						"eStartimeBehind": 17640,
+						"eStartimeHead": 17140,
+						"word": "归",
+						"wordEndtime": 17640,
+						"wordStartime": 17140
+					},
+					{
+						"contentEndtime": 17870,
+						"contentStartime": 17640,
+						"eEndtimeBehind": 17870,
+						"eEndtimeHead": 17640,
+						"eStartimeBehind": 17870,
+						"eStartimeHead": 17640,
+						"word": "帝",
+						"wordEndtime": 17870,
+						"wordStartime": 17640
+					},
+					{
+						"contentEndtime": 18760,
+						"contentStartime": 17870,
+						"eEndtimeBehind": 18760,
+						"eEndtimeHead": 17870,
+						"eStartimeBehind": 18760,
+						"eStartimeHead": 17870,
+						"word": "所",
+						"wordEndtime": 18760,
+						"wordStartime": 17870
+					},
+					{
+						"contentEndtime": 19620,
+						"contentStartime": 19220,
+						"eEndtimeBehind": 19620,
+						"eEndtimeHead": 19220,
+						"eStartimeBehind": 19620,
+						"eStartimeHead": 18760,
+						"word": "闻",
+						"wordEndtime": 19620,
+						"wordStartime": 18760
+					},
+					{
+						"contentEndtime": 20060,
+						"contentStartime": 19620,
+						"eEndtimeBehind": 20060,
+						"eEndtimeHead": 19620,
+						"eStartimeBehind": 20060,
+						"eStartimeHead": 19620,
+						"word": "天",
+						"wordEndtime": 20060,
+						"wordStartime": 19620
+					},
+					{
+						"contentEndtime": 20740,
+						"contentStartime": 20060,
+						"eEndtimeBehind": 20740,
+						"eEndtimeHead": 20060,
+						"eStartimeBehind": 20740,
+						"eStartimeHead": 20060,
+						"word": "语",
+						"wordEndtime": 20740,
+						"wordStartime": 20060
+					},
+					{
+						"contentEndtime": 21340,
+						"contentStartime": 20930,
+						"eEndtimeBehind": 21340,
+						"eEndtimeHead": 20930,
+						"eStartimeBehind": 21340,
+						"eStartimeHead": 20740,
+						"word": "殷",
+						"wordEndtime": 21340,
+						"wordStartime": 20740
+					},
+					{
+						"contentEndtime": 21720,
+						"contentStartime": 21340,
+						"eEndtimeBehind": 21720,
+						"eEndtimeHead": 21340,
+						"eStartimeBehind": 21720,
+						"eStartimeHead": 21340,
+						"word": "勤",
+						"wordEndtime": 21720,
+						"wordStartime": 21340
+					},
+					{
+						"contentEndtime": 22000,
+						"contentStartime": 21720,
+						"eEndtimeBehind": 22000,
+						"eEndtimeHead": 21720,
+						"eStartimeBehind": 22000,
+						"eStartimeHead": 21720,
+						"word": "问",
+						"wordEndtime": 22000,
+						"wordStartime": 21720
+					},
+					{
+						"contentEndtime": 22680,
+						"contentStartime": 22000,
+						"eEndtimeBehind": 22680,
+						"eEndtimeHead": 22000,
+						"eStartimeBehind": 22680,
+						"eStartimeHead": 22000,
+						"word": "我",
+						"wordEndtime": 22680,
+						"wordStartime": 22000
+					},
+					{
+						"contentEndtime": 23440,
+						"contentStartime": 22950,
+						"eEndtimeBehind": 23440,
+						"eEndtimeHead": 22950,
+						"eStartimeBehind": 23440,
+						"eStartimeHead": 22680,
+						"word": "归",
+						"wordEndtime": 23440,
+						"wordStartime": 22680
+					},
+					{
+						"contentEndtime": 23980,
+						"contentStartime": 23440,
+						"eEndtimeBehind": 23980,
+						"eEndtimeHead": 23440,
+						"eStartimeBehind": 23980,
+						"eStartimeHead": 23440,
+						"word": "何",
+						"wordEndtime": 23980,
+						"wordStartime": 23440
+					},
+					{
+						"contentEndtime": 24580,
+						"contentStartime": 23980,
+						"eEndtimeBehind": 24580,
+						"eEndtimeHead": 23980,
+						"eStartimeBehind": 24580,
+						"eStartimeHead": 23980,
+						"word": "处",
+						"wordEndtime": 24580,
+						"wordStartime": 23980
+					},
+					{
+						"contentEndtime": 26620,
+						"contentStartime": 26260,
+						"eEndtimeBehind": 26620,
+						"eEndtimeHead": 26260,
+						"eStartimeBehind": 26620,
+						"eStartimeHead": 24580,
+						"word": "我",
+						"wordEndtime": 26620,
+						"wordStartime": 24580
+					},
+					{
+						"contentEndtime": 27100,
+						"contentStartime": 26620,
+						"eEndtimeBehind": 27100,
+						"eEndtimeHead": 26620,
+						"eStartimeBehind": 27100,
+						"eStartimeHead": 26620,
+						"word": "报",
+						"wordEndtime": 27100,
+						"wordStartime": 26620
+					},
+					{
+						"contentEndtime": 27360,
+						"contentStartime": 27100,
+						"eEndtimeBehind": 27360,
+						"eEndtimeHead": 27100,
+						"eStartimeBehind": 27360,
+						"eStartimeHead": 27100,
+						"word": "路",
+						"wordEndtime": 27360,
+						"wordStartime": 27100
+					},
+					{
+						"contentEndtime": 28040,
+						"contentStartime": 27360,
+						"eEndtimeBehind": 28040,
+						"eEndtimeHead": 27360,
+						"eStartimeBehind": 28040,
+						"eStartimeHead": 27360,
+						"word": "长",
+						"wordEndtime": 28040,
+						"wordStartime": 27360
+					},
+					{
+						"contentEndtime": 28480,
+						"contentStartime": 28040,
+						"eEndtimeBehind": 28480,
+						"eEndtimeHead": 28040,
+						"eStartimeBehind": 28480,
+						"eStartimeHead": 28040,
+						"word": "嗟",
+						"wordEndtime": 28480,
+						"wordStartime": 28040
+					},
+					{
+						"contentEndtime": 28800,
+						"contentStartime": 28480,
+						"eEndtimeBehind": 28800,
+						"eEndtimeHead": 28480,
+						"eStartimeBehind": 28800,
+						"eStartimeHead": 28480,
+						"word": "日",
+						"wordEndtime": 28800,
+						"wordStartime": 28480
+					},
+					{
+						"contentEndtime": 29480,
+						"contentStartime": 28800,
+						"eEndtimeBehind": 29480,
+						"eEndtimeHead": 28800,
+						"eStartimeBehind": 29480,
+						"eStartimeHead": 28800,
+						"word": "暮",
+						"wordEndtime": 29480,
+						"wordStartime": 28800
+					},
+					{
+						"contentEndtime": 30260,
+						"contentStartime": 29810,
+						"eEndtimeBehind": 30260,
+						"eEndtimeHead": 29810,
+						"eStartimeBehind": 30260,
+						"eStartimeHead": 29480,
+						"word": "学",
+						"wordEndtime": 30260,
+						"wordStartime": 29480
+					},
+					{
+						"contentEndtime": 30780,
+						"contentStartime": 30260,
+						"eEndtimeBehind": 30780,
+						"eEndtimeHead": 30260,
+						"eStartimeBehind": 30780,
+						"eStartimeHead": 30260,
+						"word": "诗",
+						"wordEndtime": 30780,
+						"wordStartime": 30260
+					},
+					{
+						"contentEndtime": 31100,
+						"contentStartime": 30780,
+						"eEndtimeBehind": 31100,
+						"eEndtimeHead": 30780,
+						"eStartimeBehind": 31100,
+						"eStartimeHead": 30780,
+						"word": "谩",
+						"wordEndtime": 31100,
+						"wordStartime": 30780
+					},
+					{
+						"contentEndtime": 31560,
+						"contentStartime": 31100,
+						"eEndtimeBehind": 31560,
+						"eEndtimeHead": 31100,
+						"eStartimeBehind": 31560,
+						"eStartimeHead": 31100,
+						"word": "有",
+						"wordEndtime": 31560,
+						"wordStartime": 31100
+					},
+					{
+						"contentEndtime": 32060,
+						"contentStartime": 31560,
+						"eEndtimeBehind": 32060,
+						"eEndtimeHead": 31560,
+						"eStartimeBehind": 32060,
+						"eStartimeHead": 31560,
+						"word": "惊",
+						"wordEndtime": 32060,
+						"wordStartime": 31560
+					},
+					{
+						"contentEndtime": 32440,
+						"contentStartime": 32060,
+						"eEndtimeBehind": 32440,
+						"eEndtimeHead": 32060,
+						"eStartimeBehind": 32440,
+						"eStartimeHead": 32060,
+						"word": "人",
+						"wordEndtime": 32440,
+						"wordStartime": 32060
+					},
+					{
+						"contentEndtime": 33040,
+						"contentStartime": 32440,
+						"eEndtimeBehind": 33040,
+						"eEndtimeHead": 32440,
+						"eStartimeBehind": 33040,
+						"eStartimeHead": 32440,
+						"word": "句",
+						"wordEndtime": 33040,
+						"wordStartime": 32440
+					},
+					{
+						"contentEndtime": 34560,
+						"contentStartime": 34080,
+						"eEndtimeBehind": 34560,
+						"eEndtimeHead": 34080,
+						"eStartimeBehind": 34560,
+						"eStartimeHead": 33040,
+						"word": "九",
+						"wordEndtime": 34560,
+						"wordStartime": 33040
+					},
+					{
+						"contentEndtime": 34820,
+						"contentStartime": 34560,
+						"eEndtimeBehind": 34820,
+						"eEndtimeHead": 34560,
+						"eStartimeBehind": 34820,
+						"eStartimeHead": 34560,
+						"word": "万",
+						"wordEndtime": 34820,
+						"wordStartime": 34560
+					},
+					{
+						"contentEndtime": 35000,
+						"contentStartime": 34820,
+						"eEndtimeBehind": 35000,
+						"eEndtimeHead": 34820,
+						"eStartimeBehind": 35000,
+						"eStartimeHead": 34820,
+						"word": "里",
+						"wordEndtime": 35000,
+						"wordStartime": 34820
+					},
+					{
+						"contentEndtime": 35540,
+						"contentStartime": 35000,
+						"eEndtimeBehind": 35540,
+						"eEndtimeHead": 35000,
+						"eStartimeBehind": 35540,
+						"eStartimeHead": 35000,
+						"word": "风",
+						"wordEndtime": 35540,
+						"wordStartime": 35000
+					},
+					{
+						"contentEndtime": 36060,
+						"contentStartime": 35540,
+						"eEndtimeBehind": 36060,
+						"eEndtimeHead": 35540,
+						"eStartimeBehind": 36060,
+						"eStartimeHead": 35540,
+						"word": "鹏",
+						"wordEndtime": 36060,
+						"wordStartime": 35540
+					},
+					{
+						"contentEndtime": 36380,
+						"contentStartime": 36060,
+						"eEndtimeBehind": 36380,
+						"eEndtimeHead": 36060,
+						"eStartimeBehind": 36380,
+						"eStartimeHead": 36060,
+						"word": "正",
+						"wordEndtime": 36380,
+						"wordStartime": 36060
+					},
+					{
+						"contentEndtime": 37240,
+						"contentStartime": 36380,
+						"eEndtimeBehind": 37240,
+						"eEndtimeHead": 36380,
+						"eStartimeBehind": 37240,
+						"eStartimeHead": 36380,
+						"word": "举",
+						"wordEndtime": 37240,
+						"wordStartime": 36380
+					},
+					{
+						"contentEndtime": 38040,
+						"contentStartime": 37580,
+						"eEndtimeBehind": 38040,
+						"eEndtimeHead": 37580,
+						"eStartimeBehind": 38040,
+						"eStartimeHead": 37240,
+						"word": "风",
+						"wordEndtime": 38040,
+						"wordStartime": 37240
+					},
+					{
+						"contentEndtime": 38400,
+						"contentStartime": 38040,
+						"eEndtimeBehind": 38400,
+						"eEndtimeHead": 38040,
+						"eStartimeBehind": 38400,
+						"eStartimeHead": 38040,
+						"word": "休",
+						"wordEndtime": 38400,
+						"wordStartime": 38040
+					},
+					{
+						"contentEndtime": 39120,
+						"contentStartime": 38400,
+						"eEndtimeBehind": 39120,
+						"eEndtimeHead": 38400,
+						"eStartimeBehind": 39120,
+						"eStartimeHead": 38400,
+						"word": "住",
+						"wordEndtime": 39120,
+						"wordStartime": 38400
+					},
+					{
+						"contentEndtime": 39880,
+						"contentStartime": 39440,
+						"eEndtimeBehind": 39880,
+						"eEndtimeHead": 39440,
+						"eStartimeBehind": 39880,
+						"eStartimeHead": 39120,
+						"word": "蓬",
+						"wordEndtime": 39880,
+						"wordStartime": 39120
+					},
+					{
+						"contentEndtime": 40140,
+						"contentStartime": 39880,
+						"eEndtimeBehind": 40140,
+						"eEndtimeHead": 39880,
+						"eStartimeBehind": 40140,
+						"eStartimeHead": 39880,
+						"word": "舟",
+						"wordEndtime": 40140,
+						"wordStartime": 39880
+					},
+					{
+						"contentEndtime": 40480,
+						"contentStartime": 40140,
+						"eEndtimeBehind": 40480,
+						"eEndtimeHead": 40140,
+						"eStartimeBehind": 40480,
+						"eStartimeHead": 40140,
+						"word": "吹",
+						"wordEndtime": 40480,
+						"wordStartime": 40140
+					},
+					{
+						"contentEndtime": 41280,
+						"contentStartime": 40480,
+						"eEndtimeBehind": 41280,
+						"eEndtimeHead": 40480,
+						"eStartimeBehind": 41280,
+						"eStartimeHead": 40480,
+						"word": "取",
+						"wordEndtime": 41280,
+						"wordStartime": 40480
+					},
+					{
+						"contentEndtime": 41960,
+						"contentStartime": 41310,
+						"eEndtimeBehind": 41960,
+						"eEndtimeHead": 41310,
+						"eStartimeBehind": 41960,
+						"eStartimeHead": 41280,
+						"word": "三",
+						"wordEndtime": 41960,
+						"wordStartime": 41280
+					},
+					{
+						"contentEndtime": 42500,
+						"contentStartime": 41960,
+						"eEndtimeBehind": 42500,
+						"eEndtimeHead": 41960,
+						"eStartimeBehind": 42500,
+						"eStartimeHead": 41960,
+						"word": "山",
+						"wordEndtime": 42500,
+						"wordStartime": 41960
+					},
+					{
+						"contentEndtime": 42980,
+						"contentStartime": 42500,
+						"eEndtimeBehind": 44500,
+						"eEndtimeHead": 42500,
+						"eStartimeBehind": 42980,
+						"eStartimeHead": 42500,
+						"word": "去",
+						"wordEndtime": 44500,
+						"wordStartime": 42500
+					}
+				],
+				"line": 1,
+				"mask": [],
+				"mp3": "/pub_cloud/110/2013/0145/yujiaaozw.mp3",
+				"noVoiceLabel": "",
+				"polyphone": [],
+				"termOptions": [
+					{
+						"option": [
+							"云涛",
+							"云滔",
+							"云韬"
+						],
+						"wordIndex": [
+							3,
+							4
+						]
+					},
+					{
+						"option": [
+							"晓雾",
+							"小雾",
+							"晨雾"
+						],
+						"wordIndex": [
+							6,
+							7
+						]
+					},
+					{
+						"option": [
+							"星河",
+							"星辰",
+							"兴河"
+						],
+						"wordIndex": [
+							9,
+							10
+						]
+					},
+					{
+						"option": [
+							"殷勤",
+							"应勤",
+							"殷情"
+						],
+						"wordIndex": [
+							29,
+							30
+						]
+					},
+					{
+						"option": [
+							"日暮",
+							"目暮",
+							"日幕"
+						],
+						"wordIndex": [
+							44,
+							45
+						]
+					},
+					{
+						"option": [
+							"谩有",
+							"漫有",
+							"曼得"
+						],
+						"wordIndex": [
+							49,
+							50
+						]
+					},
+					{
+						"option": [
+							"蓬舟",
+							"篷舟",
+							"蓬船"
+						],
+						"wordIndex": [
+							67,
+							68
+						]
+					}
+				]
+			}
+		],
+		"poet": {
+			"content": "",
+			"mp3": "/pub_cloud/110/2013/0145/yujiaaozz.mp3",
+			"name": "李清照",
+			"nametime": [
+				{
+					"contentEndtime": 3120,
+					"contentStartime": 2760,
+					"eEndtimeBehind": 3120,
+					"eEndtimeHead": 2760,
+					"eStartimeBehind": 3120,
+					"eStartimeHead": 2000,
+					"word": "李",
+					"wordEndtime": 3120,
+					"wordStartime": 2000
+				},
+				{
+					"contentEndtime": 3460,
+					"contentStartime": 3120,
+					"eEndtimeBehind": 3460,
+					"eEndtimeHead": 3120,
+					"eStartimeBehind": 3460,
+					"eStartimeHead": 3120,
+					"word": "清",
+					"wordEndtime": 3460,
+					"wordStartime": 3120
+				},
+				{
+					"contentEndtime": 4040,
+					"contentStartime": 3460,
+					"eEndtimeBehind": 4040,
+					"eEndtimeHead": 3460,
+					"eStartimeBehind": 4040,
+					"eStartimeHead": 3460,
+					"word": "照",
+					"wordEndtime": 4040,
+					"wordStartime": 3460
+				}
+			],
+			"place": []
+		},
+		"title": {
+			"content": "选自《李清照集笺注》卷一（上海古籍出版社 2002年版）。渔家傲，词牌名。这首词是记梦之作。",
+			"mp3": "/pub_cloud/110/2013/0145/yujiaaobt.mp3",
+			"name": "渔家傲",
+			"nametime": [
+				{
+					"contentEndtime": 1000,
+					"contentStartime": 700,
+					"eEndtimeBehind": 1000,
+					"eEndtimeHead": 700,
+					"eStartimeBehind": 1000,
+					"eStartimeHead": 0,
+					"word": "渔",
+					"wordEndtime": 1000,
+					"wordStartime": 0
+				},
+				{
+					"contentEndtime": 1200,
+					"contentStartime": 1000,
+					"eEndtimeBehind": 1200,
+					"eEndtimeHead": 1000,
+					"eStartimeBehind": 1200,
+					"eStartimeHead": 1000,
+					"word": "家",
+					"wordEndtime": 1200,
+					"wordStartime": 1000
+				},
+				{
+					"contentEndtime": 2000,
+					"contentStartime": 1200,
+					"eEndtimeBehind": 2000,
+					"eEndtimeHead": 1200,
+					"eStartimeBehind": 2000,
+					"eStartimeHead": 1200,
+					"word": "傲",
+					"wordEndtime": 2000,
+					"wordStartime": 1200
+				}
+			],
+			"place": [
+				1.0,
+				3.0
+			]
+		}
+	},
+	"poemDuring": [
+		1,
+		1,
+		38
+	],
+	"poetry": {
+		"content": "天上云海茫茫，那一团团的白云相接，就像奔涌的波涛，又和拂晓的晨雾连在一起，越发显得迷蒙。透过云雾远远望去，那天河好像也在流转，河中似乎漂浮着许多船，风帆舞动，随云涛起伏。在梦中穿过云涛、晓雾、星河，来到天帝居住的宫殿，听到天帝讲话，关心我想要回到哪里去。</br>我所走的路很漫长，天色却已黄昏，前程遥远，难以到达。我学习作诗，空自写出惊人的诗句，又有什么用呢？看，大风刮起来了，那搏击长空的大鹏正乘着风振翅高飞。大风啊，不住地吹吧，把我的小船吹到海外仙山去吧！",
+		"title": "诗意浅析"
+	},
+	"wholeMp3": [
+		{
+			"bgurl": "/pub_cloud/110/2013/0145/yujiaaobj.mp3",
+			"poemName": "渔家傲",
+			"url": "/pub_cloud/110/2013/0145/yujiaaoqw.mp3"
+		}
+	]
+}
