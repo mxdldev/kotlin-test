@@ -1,0 +1,970 @@
+{
+  "appreciate": {
+    "content": "从黄昏到夜阑，词人“闲登小阁”，回首往昔岁月，深深感到时光不再，豪情已减。洛城的繁华、午桥的宴饮、幽雅的杏花、悠扬的笛声，如同沟水中的月影，都已远去。经历国破家亡的流离之苦，看破尔虞我诈的宦海沉浮，世事沧桑，人生如寄，不胜感喟。词人以清新之语，写怅惘之情，在追昔抚今中，抒发了落寞孤寂的情怀。当个人的愁苦融入历史的长河，那愁苦便淡去许多，成为渔唱樵歌，成为集体的记忆。",
+    "title": "整体赏析"
+  },
+  "author": {
+    "img": "",
+    "intro": "陈与义（1090—1138），字去非，号简斋，宋代诗人，洛阳（今属河南）人。"
+  },
+  "background": "",
+  "id": "0181",
+  "isPhonetic": false,
+  "isorder": false,
+  "mp4src": {
+    "bgurl": "",
+    "url": ""
+  },
+  "poem": {
+    "content": [
+      {
+        "annotation": [
+          {
+            "option": "〔午桥〕在洛阳城南十里。",
+            "place": [
+              3,
+              4
+            ]
+          },
+          {
+            "option": "〔渔唱起三更〕渔歌在夜半响起。",
+            "place": [
+              67,
+              68,
+              69,
+              70,
+              71
+            ]
+          }
+        ],
+        "cutoff": [
+          2,
+          5,
+          12,
+          20,
+          23,
+          30,
+          37,
+          48,
+          57,
+          63,
+          66,
+          73,
+          80
+        ],
+        "label": "忆昔午桥桥上饮，坐中多是豪英。长沟流月去无声。杏花疏影里，吹笛到天明。  二十余年如一梦，此身虽在堪惊。闲登小阁看新晴。古今多少事，渔唱起三更。",
+        "lableTime": [
+          {
+            "contentEndtime": 5980,
+            "contentStartime": 5660,
+            "eEndtimeBehind": 5980,
+            "eEndtimeHead": 5660,
+            "eStartimeBehind": 5980,
+            "eStartimeHead": 5660,
+            "word": "旧",
+            "wordEndtime": 5980,
+            "wordStartime": 5660
+          },
+          {
+            "contentEndtime": 6480,
+            "contentStartime": 5980,
+            "eEndtimeBehind": 6480,
+            "eEndtimeHead": 5980,
+            "eStartimeBehind": 6480,
+            "eStartimeHead": 5980,
+            "word": "游",
+            "wordEndtime": 6480,
+            "wordStartime": 5980
+          },
+          {
+            "contentEndtime": 7780,
+            "contentStartime": 7380,
+            "eEndtimeBehind": 7780,
+            "eEndtimeHead": 7380,
+            "eStartimeBehind": 7780,
+            "eStartimeHead": 6480,
+            "word": "陈",
+            "wordEndtime": 7780,
+            "wordStartime": 6480
+          },
+          {
+            "contentEndtime": 8040,
+            "contentStartime": 7780,
+            "eEndtimeBehind": 8040,
+            "eEndtimeHead": 7780,
+            "eStartimeBehind": 8040,
+            "eStartimeHead": 7780,
+            "word": "与",
+            "wordEndtime": 8040,
+            "wordStartime": 7780
+          },
+          {
+            "contentEndtime": 8390,
+            "contentStartime": 8040,
+            "eEndtimeBehind": 8390,
+            "eEndtimeHead": 8040,
+            "eStartimeBehind": 8390,
+            "eStartimeHead": 8040,
+            "word": "义",
+            "wordEndtime": 8390,
+            "wordStartime": 8040
+          },
+          {
+            "contentEndtime": 11740,
+            "contentStartime": 11340,
+            "eEndtimeBehind": 11740,
+            "eEndtimeHead": 11340,
+            "eStartimeBehind": 11740,
+            "eStartimeHead": 8390,
+            "word": "忆",
+            "wordEndtime": 11740,
+            "wordStartime": 8390
+          },
+          {
+            "contentEndtime": 12460,
+            "contentStartime": 11740,
+            "eEndtimeBehind": 12460,
+            "eEndtimeHead": 11740,
+            "eStartimeBehind": 12460,
+            "eStartimeHead": 11740,
+            "word": "昔",
+            "wordEndtime": 12460,
+            "wordStartime": 11740
+          },
+          {
+            "contentEndtime": 13060,
+            "contentStartime": 12860,
+            "eEndtimeBehind": 13060,
+            "eEndtimeHead": 12860,
+            "eStartimeBehind": 13060,
+            "eStartimeHead": 12460,
+            "word": "午",
+            "wordEndtime": 13060,
+            "wordStartime": 12460
+          },
+          {
+            "contentEndtime": 13780,
+            "contentStartime": 13060,
+            "eEndtimeBehind": 13780,
+            "eEndtimeHead": 13060,
+            "eStartimeBehind": 13780,
+            "eStartimeHead": 13060,
+            "word": "桥",
+            "wordEndtime": 13780,
+            "wordStartime": 13060
+          },
+          {
+            "contentEndtime": 14520,
+            "contentStartime": 13970,
+            "eEndtimeBehind": 14520,
+            "eEndtimeHead": 13970,
+            "eStartimeBehind": 14520,
+            "eStartimeHead": 13780,
+            "word": "桥",
+            "wordEndtime": 14520,
+            "wordStartime": 13780
+          },
+          {
+            "contentEndtime": 14920,
+            "contentStartime": 14520,
+            "eEndtimeBehind": 14920,
+            "eEndtimeHead": 14520,
+            "eStartimeBehind": 14920,
+            "eStartimeHead": 14520,
+            "word": "上",
+            "wordEndtime": 14920,
+            "wordStartime": 14520
+          },
+          {
+            "contentEndtime": 15300,
+            "contentStartime": 14920,
+            "eEndtimeBehind": 15300,
+            "eEndtimeHead": 14920,
+            "eStartimeBehind": 15300,
+            "eStartimeHead": 14920,
+            "word": "饮",
+            "wordEndtime": 15300,
+            "wordStartime": 14920
+          },
+          {
+            "contentEndtime": 16780,
+            "contentStartime": 16380,
+            "eEndtimeBehind": 16780,
+            "eEndtimeHead": 16380,
+            "eStartimeBehind": 16780,
+            "eStartimeHead": 15300,
+            "word": "坐",
+            "wordEndtime": 16780,
+            "wordStartime": 15300
+          },
+          {
+            "contentEndtime": 17420,
+            "contentStartime": 16780,
+            "eEndtimeBehind": 17420,
+            "eEndtimeHead": 16780,
+            "eStartimeBehind": 17420,
+            "eStartimeHead": 16780,
+            "word": "中",
+            "wordEndtime": 17420,
+            "wordStartime": 16780
+          },
+          {
+            "contentEndtime": 17940,
+            "contentStartime": 17640,
+            "eEndtimeBehind": 17940,
+            "eEndtimeHead": 17640,
+            "eStartimeBehind": 17940,
+            "eStartimeHead": 17420,
+            "word": "多",
+            "wordEndtime": 17940,
+            "wordStartime": 17420
+          },
+          {
+            "contentEndtime": 18580,
+            "contentStartime": 17940,
+            "eEndtimeBehind": 18580,
+            "eEndtimeHead": 17940,
+            "eStartimeBehind": 18580,
+            "eStartimeHead": 17940,
+            "word": "是",
+            "wordEndtime": 18580,
+            "wordStartime": 17940
+          },
+          {
+            "contentEndtime": 19480,
+            "contentStartime": 18720,
+            "eEndtimeBehind": 19480,
+            "eEndtimeHead": 18720,
+            "eStartimeBehind": 19480,
+            "eStartimeHead": 18580,
+            "word": "豪",
+            "wordEndtime": 19480,
+            "wordStartime": 18580
+          },
+          {
+            "contentEndtime": 20060,
+            "contentStartime": 19480,
+            "eEndtimeBehind": 20060,
+            "eEndtimeHead": 19480,
+            "eStartimeBehind": 20060,
+            "eStartimeHead": 19480,
+            "word": "英",
+            "wordEndtime": 20060,
+            "wordStartime": 19480
+          },
+          {
+            "contentEndtime": 22680,
+            "contentStartime": 22000,
+            "eEndtimeBehind": 22680,
+            "eEndtimeHead": 22000,
+            "eStartimeBehind": 22680,
+            "eStartimeHead": 20060,
+            "word": "长",
+            "wordEndtime": 22680,
+            "wordStartime": 20060
+          },
+          {
+            "contentEndtime": 23120,
+            "contentStartime": 22680,
+            "eEndtimeBehind": 23120,
+            "eEndtimeHead": 22680,
+            "eStartimeBehind": 23120,
+            "eStartimeHead": 22680,
+            "word": "沟",
+            "wordEndtime": 23120,
+            "wordStartime": 22680
+          },
+          {
+            "contentEndtime": 23520,
+            "contentStartime": 23120,
+            "eEndtimeBehind": 23520,
+            "eEndtimeHead": 23120,
+            "eStartimeBehind": 23520,
+            "eStartimeHead": 23120,
+            "word": "流",
+            "wordEndtime": 23520,
+            "wordStartime": 23120
+          },
+          {
+            "contentEndtime": 24030,
+            "contentStartime": 23520,
+            "eEndtimeBehind": 24030,
+            "eEndtimeHead": 23520,
+            "eStartimeBehind": 24030,
+            "eStartimeHead": 23520,
+            "word": "月",
+            "wordEndtime": 24030,
+            "wordStartime": 23520
+          },
+          {
+            "contentEndtime": 25040,
+            "contentStartime": 24420,
+            "eEndtimeBehind": 25040,
+            "eEndtimeHead": 24420,
+            "eStartimeBehind": 25040,
+            "eStartimeHead": 24030,
+            "word": "去",
+            "wordEndtime": 25040,
+            "wordStartime": 24030
+          },
+          {
+            "contentEndtime": 25360,
+            "contentStartime": 25040,
+            "eEndtimeBehind": 25360,
+            "eEndtimeHead": 25040,
+            "eStartimeBehind": 25360,
+            "eStartimeHead": 25040,
+            "word": "无",
+            "wordEndtime": 25360,
+            "wordStartime": 25040
+          },
+          {
+            "contentEndtime": 25920,
+            "contentStartime": 25360,
+            "eEndtimeBehind": 25920,
+            "eEndtimeHead": 25360,
+            "eStartimeBehind": 25920,
+            "eStartimeHead": 25360,
+            "word": "声",
+            "wordEndtime": 25920,
+            "wordStartime": 25360
+          },
+          {
+            "contentEndtime": 27280,
+            "contentStartime": 26720,
+            "eEndtimeBehind": 27280,
+            "eEndtimeHead": 26720,
+            "eStartimeBehind": 27280,
+            "eStartimeHead": 25920,
+            "word": "杏",
+            "wordEndtime": 27280,
+            "wordStartime": 25920
+          },
+          {
+            "contentEndtime": 27700,
+            "contentStartime": 27280,
+            "eEndtimeBehind": 27700,
+            "eEndtimeHead": 27280,
+            "eStartimeBehind": 27700,
+            "eStartimeHead": 27280,
+            "word": "花",
+            "wordEndtime": 27700,
+            "wordStartime": 27280
+          },
+          {
+            "contentEndtime": 28080,
+            "contentStartime": 27700,
+            "eEndtimeBehind": 28080,
+            "eEndtimeHead": 27700,
+            "eStartimeBehind": 28080,
+            "eStartimeHead": 27700,
+            "word": "疏",
+            "wordEndtime": 28080,
+            "wordStartime": 27700
+          },
+          {
+            "contentEndtime": 28420,
+            "contentStartime": 28080,
+            "eEndtimeBehind": 28420,
+            "eEndtimeHead": 28080,
+            "eStartimeBehind": 28420,
+            "eStartimeHead": 28080,
+            "word": "影",
+            "wordEndtime": 28420,
+            "wordStartime": 28080
+          },
+          {
+            "contentEndtime": 29030,
+            "contentStartime": 28420,
+            "eEndtimeBehind": 29030,
+            "eEndtimeHead": 28420,
+            "eStartimeBehind": 29030,
+            "eStartimeHead": 28420,
+            "word": "里",
+            "wordEndtime": 29030,
+            "wordStartime": 28420
+          },
+          {
+            "contentEndtime": 29840,
+            "contentStartime": 29320,
+            "eEndtimeBehind": 29840,
+            "eEndtimeHead": 29320,
+            "eStartimeBehind": 29840,
+            "eStartimeHead": 29030,
+            "word": "吹",
+            "wordEndtime": 29840,
+            "wordStartime": 29030
+          },
+          {
+            "contentEndtime": 30580,
+            "contentStartime": 29840,
+            "eEndtimeBehind": 30580,
+            "eEndtimeHead": 29840,
+            "eStartimeBehind": 30580,
+            "eStartimeHead": 29840,
+            "word": "笛",
+            "wordEndtime": 30580,
+            "wordStartime": 29840
+          },
+          {
+            "contentEndtime": 31390,
+            "contentStartime": 30800,
+            "eEndtimeBehind": 31390,
+            "eEndtimeHead": 30800,
+            "eStartimeBehind": 31390,
+            "eStartimeHead": 30580,
+            "word": "到",
+            "wordEndtime": 31390,
+            "wordStartime": 30580
+          },
+          {
+            "contentEndtime": 31900,
+            "contentStartime": 31390,
+            "eEndtimeBehind": 31900,
+            "eEndtimeHead": 31390,
+            "eStartimeBehind": 31900,
+            "eStartimeHead": 31390,
+            "word": "天",
+            "wordEndtime": 31900,
+            "wordStartime": 31390
+          },
+          {
+            "contentEndtime": 32640,
+            "contentStartime": 31900,
+            "eEndtimeBehind": 32640,
+            "eEndtimeHead": 31900,
+            "eStartimeBehind": 32640,
+            "eStartimeHead": 31900,
+            "word": "明",
+            "wordEndtime": 32640,
+            "wordStartime": 31900
+          },
+          {
+            "contentEndtime": 35860,
+            "contentStartime": 35420,
+            "eEndtimeBehind": 35860,
+            "eEndtimeHead": 35420,
+            "eStartimeBehind": 35860,
+            "eStartimeHead": 32640,
+            "word": "二",
+            "wordEndtime": 35860,
+            "wordStartime": 32640
+          },
+          {
+            "contentEndtime": 36240,
+            "contentStartime": 35860,
+            "eEndtimeBehind": 36240,
+            "eEndtimeHead": 35860,
+            "eStartimeBehind": 36240,
+            "eStartimeHead": 35860,
+            "word": "十",
+            "wordEndtime": 36240,
+            "wordStartime": 35860
+          },
+          {
+            "contentEndtime": 36520,
+            "contentStartime": 36240,
+            "eEndtimeBehind": 36520,
+            "eEndtimeHead": 36240,
+            "eStartimeBehind": 36520,
+            "eStartimeHead": 36240,
+            "word": "余",
+            "wordEndtime": 36520,
+            "wordStartime": 36240
+          },
+          {
+            "contentEndtime": 37100,
+            "contentStartime": 36520,
+            "eEndtimeBehind": 37100,
+            "eEndtimeHead": 36520,
+            "eStartimeBehind": 37100,
+            "eStartimeHead": 36520,
+            "word": "年",
+            "wordEndtime": 37100,
+            "wordStartime": 36520
+          },
+          {
+            "contentEndtime": 37600,
+            "contentStartime": 37100,
+            "eEndtimeBehind": 37600,
+            "eEndtimeHead": 37100,
+            "eStartimeBehind": 37600,
+            "eStartimeHead": 37100,
+            "word": "如",
+            "wordEndtime": 37600,
+            "wordStartime": 37100
+          },
+          {
+            "contentEndtime": 37920,
+            "contentStartime": 37600,
+            "eEndtimeBehind": 37920,
+            "eEndtimeHead": 37600,
+            "eStartimeBehind": 37920,
+            "eStartimeHead": 37600,
+            "word": "一",
+            "wordEndtime": 37920,
+            "wordStartime": 37600
+          },
+          {
+            "contentEndtime": 38360,
+            "contentStartime": 37920,
+            "eEndtimeBehind": 38360,
+            "eEndtimeHead": 37920,
+            "eStartimeBehind": 38360,
+            "eStartimeHead": 37920,
+            "word": "梦",
+            "wordEndtime": 38360,
+            "wordStartime": 37920
+          },
+          {
+            "contentEndtime": 39840,
+            "contentStartime": 39320,
+            "eEndtimeBehind": 39840,
+            "eEndtimeHead": 39320,
+            "eStartimeBehind": 39840,
+            "eStartimeHead": 38360,
+            "word": "此",
+            "wordEndtime": 39840,
+            "wordStartime": 38360
+          },
+          {
+            "contentEndtime": 40300,
+            "contentStartime": 39840,
+            "eEndtimeBehind": 40300,
+            "eEndtimeHead": 39840,
+            "eStartimeBehind": 40300,
+            "eStartimeHead": 39840,
+            "word": "身",
+            "wordEndtime": 40300,
+            "wordStartime": 39840
+          },
+          {
+            "contentEndtime": 40720,
+            "contentStartime": 40300,
+            "eEndtimeBehind": 40720,
+            "eEndtimeHead": 40300,
+            "eStartimeBehind": 40720,
+            "eStartimeHead": 40300,
+            "word": "虽",
+            "wordEndtime": 40720,
+            "wordStartime": 40300
+          },
+          {
+            "contentEndtime": 41340,
+            "contentStartime": 40720,
+            "eEndtimeBehind": 41340,
+            "eEndtimeHead": 40720,
+            "eStartimeBehind": 41340,
+            "eStartimeHead": 40720,
+            "word": "在",
+            "wordEndtime": 41340,
+            "wordStartime": 40720
+          },
+          {
+            "contentEndtime": 42480,
+            "contentStartime": 41900,
+            "eEndtimeBehind": 42480,
+            "eEndtimeHead": 41900,
+            "eStartimeBehind": 42480,
+            "eStartimeHead": 41340,
+            "word": "堪",
+            "wordEndtime": 42480,
+            "wordStartime": 41340
+          },
+          {
+            "contentEndtime": 43240,
+            "contentStartime": 42480,
+            "eEndtimeBehind": 43240,
+            "eEndtimeHead": 42480,
+            "eStartimeBehind": 43240,
+            "eStartimeHead": 42480,
+            "word": "惊",
+            "wordEndtime": 43240,
+            "wordStartime": 42480
+          },
+          {
+            "contentEndtime": 45520,
+            "contentStartime": 44920,
+            "eEndtimeBehind": 45520,
+            "eEndtimeHead": 44920,
+            "eStartimeBehind": 45520,
+            "eStartimeHead": 43240,
+            "word": "闲",
+            "wordEndtime": 45520,
+            "wordStartime": 43240
+          },
+          {
+            "contentEndtime": 45840,
+            "contentStartime": 45520,
+            "eEndtimeBehind": 45840,
+            "eEndtimeHead": 45520,
+            "eStartimeBehind": 45840,
+            "eStartimeHead": 45520,
+            "word": "登",
+            "wordEndtime": 45840,
+            "wordStartime": 45520
+          },
+          {
+            "contentEndtime": 46300,
+            "contentStartime": 45840,
+            "eEndtimeBehind": 46300,
+            "eEndtimeHead": 45840,
+            "eStartimeBehind": 46300,
+            "eStartimeHead": 45840,
+            "word": "小",
+            "wordEndtime": 46300,
+            "wordStartime": 45840
+          },
+          {
+            "contentEndtime": 47000,
+            "contentStartime": 46300,
+            "eEndtimeBehind": 47000,
+            "eEndtimeHead": 46300,
+            "eStartimeBehind": 47000,
+            "eStartimeHead": 46300,
+            "word": "阁",
+            "wordEndtime": 47000,
+            "wordStartime": 46300
+          },
+          {
+            "contentEndtime": 47500,
+            "contentStartime": 47030,
+            "eEndtimeBehind": 47500,
+            "eEndtimeHead": 47030,
+            "eStartimeBehind": 47500,
+            "eStartimeHead": 47000,
+            "word": "看",
+            "wordEndtime": 47500,
+            "wordStartime": 47000
+          },
+          {
+            "contentEndtime": 48020,
+            "contentStartime": 47500,
+            "eEndtimeBehind": 48020,
+            "eEndtimeHead": 47500,
+            "eStartimeBehind": 48020,
+            "eStartimeHead": 47500,
+            "word": "新",
+            "wordEndtime": 48020,
+            "wordStartime": 47500
+          },
+          {
+            "contentEndtime": 48650,
+            "contentStartime": 48020,
+            "eEndtimeBehind": 48650,
+            "eEndtimeHead": 48020,
+            "eStartimeBehind": 48650,
+            "eStartimeHead": 48020,
+            "word": "晴",
+            "wordEndtime": 48650,
+            "wordStartime": 48020
+          },
+          {
+            "contentEndtime": 50160,
+            "contentStartime": 49840,
+            "eEndtimeBehind": 50160,
+            "eEndtimeHead": 49840,
+            "eStartimeBehind": 50160,
+            "eStartimeHead": 48650,
+            "word": "古",
+            "wordEndtime": 50160,
+            "wordStartime": 48650
+          },
+          {
+            "contentEndtime": 50730,
+            "contentStartime": 50160,
+            "eEndtimeBehind": 50730,
+            "eEndtimeHead": 50160,
+            "eStartimeBehind": 50730,
+            "eStartimeHead": 50160,
+            "word": "今",
+            "wordEndtime": 50730,
+            "wordStartime": 50160
+          },
+          {
+            "contentEndtime": 51320,
+            "contentStartime": 50730,
+            "eEndtimeBehind": 51320,
+            "eEndtimeHead": 50730,
+            "eStartimeBehind": 51320,
+            "eStartimeHead": 50730,
+            "word": "多",
+            "wordEndtime": 51320,
+            "wordStartime": 50730
+          },
+          {
+            "contentEndtime": 51700,
+            "contentStartime": 51320,
+            "eEndtimeBehind": 51700,
+            "eEndtimeHead": 51320,
+            "eStartimeBehind": 51700,
+            "eStartimeHead": 51320,
+            "word": "少",
+            "wordEndtime": 51700,
+            "wordStartime": 51320
+          },
+          {
+            "contentEndtime": 52300,
+            "contentStartime": 51700,
+            "eEndtimeBehind": 52300,
+            "eEndtimeHead": 51700,
+            "eStartimeBehind": 52300,
+            "eStartimeHead": 51700,
+            "word": "事",
+            "wordEndtime": 52300,
+            "wordStartime": 51700
+          }
+        ],
+        "line": 1,
+        "mask": [],
+        "mp3": "/pub_cloud/110/2013/0181/linjiangxianzw.mp3",
+        "noVoiceLabel": "",
+        "polyphone": [],
+        "termOptions": [
+          {
+            "option": [
+              "记昔",
+              "忆昔",
+              "忆夕"
+            ],
+            "wordIndex": [
+              1,
+              2
+            ]
+          },
+          {
+            "option": [
+              "坐中",
+              "座中",
+              "坐内"
+            ],
+            "wordIndex": [
+              9,
+              10
+            ]
+          },
+          {
+            "option": [
+              "英豪",
+              "豪英",
+              "豪杰"
+            ],
+            "wordIndex": [
+              13,
+              14
+            ]
+          },
+          {
+            "option": [
+              "常沟",
+              "长沟",
+              "长勾"
+            ],
+            "wordIndex": [
+              16,
+              17
+            ]
+          },
+          {
+            "option": [
+              "书影",
+              "蔬影",
+              "疏影",
+              "疏景"
+            ],
+            "wordIndex": [
+              26,
+              27
+            ]
+          },
+          {
+            "option": [
+              "此身",
+              "此生",
+              "此声"
+            ],
+            "wordIndex": [
+              46,
+              47
+            ]
+          },
+          {
+            "option": [
+              "堪惊",
+              "湛惊",
+              "葚惊"
+            ],
+            "wordIndex": [
+              50,
+              51
+            ]
+          },
+          {
+            "option": [
+              "心晴",
+              "新情",
+              "新晴",
+              "心情"
+            ],
+            "wordIndex": [
+              58,
+              59
+            ]
+          },
+          {
+            "option": [
+              "渔唱",
+              "渝唱",
+              "鱼歌"
+            ],
+            "wordIndex": [
+              67,
+              68
+            ]
+          }
+        ]
+      }
+    ],
+    "poet": {
+      "content": "",
+      "mp3": "/pub_cloud/110/2013/0181/linjiangxianzz.mp3",
+      "name": "陈与义",
+      "nametime": [
+        {
+          "contentEndtime": 5040,
+          "contentStartime": 4540,
+          "eEndtimeBehind": 5040,
+          "eEndtimeHead": 4540,
+          "eStartimeBehind": 5040,
+          "eStartimeHead": 4380,
+          "word": "忆",
+          "wordEndtime": 5040,
+          "wordStartime": 4380
+        },
+        {
+          "contentEndtime": 5400,
+          "contentStartime": 5040,
+          "eEndtimeBehind": 5400,
+          "eEndtimeHead": 5040,
+          "eStartimeBehind": 5400,
+          "eStartimeHead": 5040,
+          "word": "洛",
+          "wordEndtime": 5400,
+          "wordStartime": 5040
+        },
+        {
+          "contentEndtime": 5660,
+          "contentStartime": 5400,
+          "eEndtimeBehind": 5660,
+          "eEndtimeHead": 5400,
+          "eStartimeBehind": 5660,
+          "eStartimeHead": 5400,
+          "word": "中",
+          "wordEndtime": 5660,
+          "wordStartime": 5400
+        }
+      ],
+      "place": []
+    },
+    "title": {
+      "content": "选自《陈与义集·无住词十八首》（中华书局 2007年版）。临江仙，词牌名。洛中，指洛阳。陈与义（1090—1138），字去非，号简斋， 洛阳（今属河南）人，宋代诗人。",
+      "mp3": "/pub_cloud/110/2013/0181/linjiangxianbt.mp3",
+      "name": "临江仙·夜登小阁，忆洛中旧游",
+      "nametime": [
+        {
+          "contentEndtime": 1220,
+          "contentStartime": 920,
+          "eEndtimeBehind": 1220,
+          "eEndtimeHead": 920,
+          "eStartimeBehind": 1220,
+          "eStartimeHead": 0,
+          "word": "临",
+          "wordEndtime": 1220,
+          "wordStartime": 0
+        },
+        {
+          "contentEndtime": 1500,
+          "contentStartime": 1220,
+          "eEndtimeBehind": 1500,
+          "eEndtimeHead": 1220,
+          "eStartimeBehind": 1500,
+          "eStartimeHead": 1220,
+          "word": "江",
+          "wordEndtime": 1500,
+          "wordStartime": 1220
+        },
+        {
+          "contentEndtime": 1980,
+          "contentStartime": 1500,
+          "eEndtimeBehind": 1980,
+          "eEndtimeHead": 1500,
+          "eStartimeBehind": 1980,
+          "eStartimeHead": 1500,
+          "word": "仙",
+          "wordEndtime": 1980,
+          "wordStartime": 1500
+        },
+        {
+          "contentEndtime": 3180,
+          "contentStartime": 2720,
+          "eEndtimeBehind": 3180,
+          "eEndtimeHead": 2720,
+          "eStartimeBehind": 3180,
+          "eStartimeHead": 1980,
+          "word": "夜",
+          "wordEndtime": 3180,
+          "wordStartime": 1980
+        },
+        {
+          "contentEndtime": 3400,
+          "contentStartime": 3180,
+          "eEndtimeBehind": 3400,
+          "eEndtimeHead": 3180,
+          "eStartimeBehind": 3400,
+          "eStartimeHead": 3180,
+          "word": "登",
+          "wordEndtime": 3400,
+          "wordStartime": 3180
+        },
+        {
+          "contentEndtime": 3820,
+          "contentStartime": 3400,
+          "eEndtimeBehind": 3820,
+          "eEndtimeHead": 3400,
+          "eStartimeBehind": 3820,
+          "eStartimeHead": 3400,
+          "word": "小",
+          "wordEndtime": 3820,
+          "wordStartime": 3400
+        },
+        {
+          "contentEndtime": 4380,
+          "contentStartime": 3820,
+          "eEndtimeBehind": 4380,
+          "eEndtimeHead": 3820,
+          "eStartimeBehind": 4380,
+          "eStartimeHead": 3820,
+          "word": "阁",
+          "wordEndtime": 4380,
+          "wordStartime": 3820
+        }
+      ]
+    }
+  },
+  "poemDuring": [
+    6,
+    1,
+    47
+  ],
+  "poetry": {
+    "content": "回忆当年在午桥畅饮，在座的都是英雄豪杰。月光映在河面，随流水悄悄地流逝。在杏花淡淡的影子里，吹起竹笛直到天明。</br>二十多年的岁月仿佛一场梦，我虽身在回首往昔却总是胆战心惊。百无聊赖中登上小阁楼观看雨后初晴的景致。古往今来多少历史事迹，都化作渔歌在半夜响起。",
+    "title": "诗意浅析"
+  },
+  "wholeMp3": [
+    {
+      "bgurl": "",
+      "poemName": "临江仙·夜登小阁，忆洛中旧游",
+      "url": "/pub_cloud/110/2013/0181/linjiangxianqw.mp3"
+    }
+  ]
+}
